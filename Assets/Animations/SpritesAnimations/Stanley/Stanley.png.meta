@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 6c35cf4c038fef64dba81fa4cc0331f9
+timeCreated: 1544718852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stanley_0
+    21300002: Stanley_1
+    21300004: Stanley_2
+    21300006: Stanley_3
+    21300008: Stanley_4
+    21300010: Stanley_5
+    21300012: Stanley_6
+    21300014: Stanley_7
+    21300016: Stanley_8
+    21300018: Stanley_9
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stanley_0
+      rect:
+        serializedVersion: 2
+        x: 472.99408
+        y: 1719.827
+        width: 99.07031
+        height: 40.83191
+      alignment: 9
+      pivot: {x: 0.49465734, y: 0.48180392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_1
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1713.8158
+        width: 95
+        height: 51.99536
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50358266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_2
+      rect:
+        serializedVersion: 2
+        x: 715.06934
+        y: 1687.2605
+        width: 320.0332
+        height: 426.23242
+      alignment: 9
+      pivot: {x: 0.49816912, y: 0.49676976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_3
+      rect:
+        serializedVersion: 2
+        x: 1564.1306
+        y: 1334.2017
+        width: 302.90442
+        height: 494.74792
+      alignment: 9
+      pivot: {x: 0.4947745, y: 0.49883625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_4
+      rect:
+        serializedVersion: 2
+        x: 271.081
+        y: 299.55643
+        width: 323.45898
+        height: 1000.0508
+      alignment: 9
+      pivot: {x: 0.49904, y: 0.49841818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_5
+      rect:
+        serializedVersion: 2
+        x: 623.3642
+        y: 1208.1355
+        width: 200.13086
+        height: 321.7461
+      alignment: 9
+      pivot: {x: 0.49285653, y: 0.49531138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_6
+      rect:
+        serializedVersion: 2
+        x: 1022.5476
+        y: 993.12854
+        width: 359.4297
+        height: 710.57227
+      alignment: 9
+      pivot: {x: 0.50066054, y: 0.49730545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_7
+      rect:
+        serializedVersion: 2
+        x: 685.9873
+        y: 373.8964
+        width: 258.36908
+        height: 727.7012
+      alignment: 9
+      pivot: {x: 0.4993349, y: 0.4982864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_8
+      rect:
+        serializedVersion: 2
+        x: 1449.4637
+        y: 412.4979
+        width: 338.875
+        height: 690.01746
+      alignment: 9
+      pivot: {x: 0.49438918, y: 0.4985411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stanley_9
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1024
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 101234694429468
+  assetBundleName: 
+  assetBundleVariant: 

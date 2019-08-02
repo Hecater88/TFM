@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<English>
+        <string name="inventory_full">My stocklist is full.</string>
+
+        <string name="NPC1_1">Welcome to Delirium. It’s seems that you’re stuck in this room.</string>
+        <string name="NPC1_2">You should look for a way to escape. It could be a key in somewhere...</string>
+        <string name="NPC2_1">Help! I can’t find my banana.</string>
+        <string name="NPC2_2"> Thanks for helping me!</string>
+        <string name="NPC3_1">You can’t come to my house. First you have to answer some questions and then we’ll see...</string>
+        <string name="NPC3_2"> i can’t let you in a crazy dude like you.</string>
+        <string name="DoorClosed">The door is locked and I can’t go out.</string>
+        <string name="Banana_1">I don’t want a banana right now.</string>
+
+        <string name="Scene1_0">I don’t feel well...</string>
+        <string name="Scene1_01">I don’t wanna die St.</string>
+        <string name="Scene1_1">Uff... How the hell am I appeared in my bed? I was playing Hoberguach and...</string>
+        <string name="Scene1_2">I don’t remember anything!</string>
+        <string name="Scene1_3">and where is may "Iguana Escape" poster? And the most important thing... Where is my knob?</string>
+        <string name="Scene1_4">No way...! I hope this thing don’t electrify me.</string>
+        <string name="Scene1_5">Maybe this can work, i hope it doesn’t hit me if i entered the wrong answer.</string>
+
+        <string name="Scene2_1">¡Ohhh...! It looks like Cotton, my favourite teddy bear!</string>
+        <string name="Scene2_2">¡D’oh! Be careful, you’re idiot! </string>
+        <string name="Scene2_3">WHAT WAS THAT? I’m getting crazy or this fucking toy have just yell?</string>
+        <string name="Scene2_4">Come closer and I kill you! Can’t you see I’m injured?</string>
+        <string name="Scene2_5"> Fuck! What...can I do to help you?</string>
+        <string name="Scene2_6">You’re have to sewIt’s going to be worst that playing “Operation”. </string>
+        <string name="Scene2_7">Could you tell me what’s happening? It’s been too crazy in here since I woke up..</string>
+        <string name="Scene2_8">Lool, dude. Right now you’re in Delirium, a world created from you’re dreams. And I’m Cotton, </string>
+        <string name="Scene2_9">your loved childhood teddy bear, the one you abandoned because of “that” computer... Well, the thing is that this world is a reflection of the one that you live in,</string>
+        <string name="Scene2_10">but... Let’s say that is a little “changed”. </string>
+        <string name="Scene2_11">I need fresh air.</string>
+
+        <string name="Scene3_1">Another question, How do you ended destroyed?</string>
+        <string name="Scene3_2">Mmm... you’re not going to believe me, but is was your fault.</string>
+        <string name="Scene3_3">Yes, and the Dodo is extinct because of me too.</string>
+        <string name="Scene3_4">Since you arrived, It’s been happening weird things, and some strange creatures came into my house and knock me out.</string>
+        <string name="Scene3_5">Hey... Why the sky is purple? I want to go for a walk, I want to see how is this place.</string>
+        <string name="Scene3_6">You’re not listen, Don’t you? </string>
+       <string name="Scene3_7">Follow me, I’m gonna show you the square where we can ask someone about it. </string>
+
+        <string name="Scene4_1">Excuse me, sir.</string>
+        <string name="Scene4_2">What do ya want, figlio di la mignotta?</string>
+        <string name="Scene4_3">Could you tell me where are we?</string>
+        <string name="Scene4_4"> Am I look like google maps?</string>
+        <string name="Scene4_5">¡MAMMA MIA! The pipes! Help me! </string>
+        <string name="Scene4_6">Bene, it seems one of my... mushrooms, was blocking the water way...</string>
+        <string name="Scene4_7">A deal is a deal. Tell me where are we and how can we get away.</string>
+        <string name="Scene4_8">I don’t know, but I know a ragazza that could tell you anything you wanna know. She’s on the left path.</string>
+        <string name="Scene4_9">"In memory of Isaias, 16 de octubre de 2017 - 2 de febrero de 2018."</string>
+        <string name="Scene4_10">Who’s him?</string>
+
+        <string name="Scene5_1">Sorry... A strange italian guy told me you have some kind of information that could help me. Maybe we could make a deal. First of all, what’s your name? I’m Danny.</string>
+        <string name="Scene5_2">I’m Traper, and if you want something about me, you would have to bring me a little of deliriumina.</string>
+        <string name="Scene5_3">Deliriumina, that sounds to me. I didn’t try it...</string>
+        <string name="Scene5_4">You have to go to the square and then to the trailer park on the right. I would go myself, but...</string>
+        <string name="Scene5_5">I owe some money to my dealer. You would have to go in my place.</string>
+        <string name="Scene5_6">But before you go, i need to be sure you’re not cops. I need to ask you some questions.</string>
+
+        <string name="AbrirBasura">Why did I open the waste container in a dark place...?</string>
+        <string name="Analgesico"> I have found the painkiller! There’s nothing good could come from it.</string>
+        <string name="Deliriumnita">With this Traper would tell me what i wan’t to know.</string>
+        <string name="Hilos">I have to help Cotton before he dies “unraveled”.</string>
+        <string name="PipeResuelto">There’s no need to fix the piper.</string>
+       <string name="Tunel">I think we have to visit the Thaigaryen, I’m hungry.</string>
+
+
+
+        <string name="Scene6_1">What do ya want?</string>
+        <string name="Scene6_2">Do you have “magic”? I’m here with my teddy bear.</string>
+        <string name="Scene6_3">Well, it seems you’re really into the deliriumina.</string>
+        <string name="Scene6_4">I have a problem boys, I’m run out of it. But I can make more.</string>
+        <string name="Scene6_5">i need you to look for some more painkiller, I’m sure you can find it in any alley.</string>
+        <string name="Scene6_6">Thanks, boys. Here you have your part. You looks like the guy that bought me it.</string>
+        <string name="Scene6_7">(This guy is crazy as hell, we should run before he kills us or something.</string>
+
+        <string name="Scene7_1">did you brought me what I want, my dear bad bunny?</string>
+        <string name="Scene7_2">Mmm... yes, We brought the magic.</string>
+        <string name="Scene7_3">give me that now, i need to fly on the wall.</string>
+        <string name="Scene7_4">What do you wanna know?</string>
+        <string name="Scene7_5">I would like to escape from Delirium. How could I find the exit?</string>
+
+
+        <string name="Scene7_6">The only thing I can tell you is that if you want to find the exit you have to do it in this world...</string>
+        <string name="Scene7_7">You're a hell of an information dealer. You have not served me for anything even having had to catch you from the good shit.</string>
+
+   <string name="Scene8_0">Who's so bold as to break into my quarters?</string>
+   <string name="Scene8_1">Well found handsome young man, my name is Solitaire,and surname Fuertesco. Who are you, gentleman, to speak to me dare?</string>
+   <string name="Scene8_2">Eh... Good night? Could you let us in?</string>
+   <string name="Scene8_3">To pass through my domains, in a battle of knights you must win!</string>
+   <string name="Scene8_4">From the mother of God! You have shown great courage, O noble knight.</string>
+   <string name="Scene8_5">It seems that sending Elvish poems to girls has done some good.</string>
+   <string name="Scene8_6">You are worthy to pass into the center of this glorious villa. Enjoy our wonders.</string>
+
+   <string name="Scene9_1">Hey Cotton, I'm a little hungry, we should get into one of these establishments.</string>
+   <string name="Scene9_2">Well, let's go to ThaiGaryen who make good noodles. We have to take the road on the right.</string>
+   <string name="Scene9_3">Yes, please! It's one of my favorite foods!</string>
+    <string name="Scene9_4">Now that we have a warm belly, let's go for a walk and see what we can find.</string>
+
+
+   <string name="Scene10_1">Hello... Good evening, how can I help you?</string>
+   <string name="Scene10_2">Could you give us two red weddings, please?</string>
+   <string name="Scene10_3">Sure, sit down, I'll serve you now.</string>
+   <string name="Scene10_4">(He seems to be a very sane person, I'll ask him how to get out of here...)</string>
+   <string name="Scene10_5">Hello, again, what can I do for you?</string>
+   <string name="Scene10_6">I wanted to know how to get out of the world of Delirium, and nobody's helping me lately.</string>
+   <string name="Scene10_7">I would love to help you, but first you must prove yourselves worthy, so you will have to resolve the... PARCHMENT OF THE GRANDMOTHER OF DRAGONS.</string>
+   <string name="Scene10_8">But... This is a tablecloth with hobbies for children...</string>
+   <string name="Scene10_9">NO WAY! This is the legacy of our family, passed down from generation to generation as the recipe for the cachopo.</string>
+   <string name="Scene10_10">All right... I'll figure it out.</string>
+   <string name="Scene10_11">Winter is coming. Take these warm noodles. In them you will find everything you need to know.</string>
+   <string name="Scene10_12">Huh? Noodles are forming a word... Mármol? Like Mármol Comics?</string>
+   <string name="Scene10_13">We should visit that store, maybe it's already opened.</string>
+  
+   <string name="Scene11_1">Good night, young men! Do you have pictures of Spiderpig? Bring me pictures of Spiderpig!</string>
+   <string name="Scene11_2">Eh... Hi, my name is Danny, I've been looking for a way out of this world for a long time. Could you help me?</string>
+   <string name="Scene11_3">Good... I would like to help you, but I just happen to help people who know something about the Mármol universe.</string>
+   <string name="Scene11_4">Get ready, kid. This is gonna be the most ambitious crossover ever.</string>
+   <string name="Scene11_5">Unbelievable! You're a real mármol fan. I'm thinking of making a cinematographic universe, and you've inspired me.</string>
+   <string name="Scene11_5.5">Take this piece of key and remember: "A great power carries a great responsibility".</string>
+   <string name="Scene11_6">Thank you, Mr. Stanley, I hope you'll sign my Captain Murcia comic book for next time.</string>
+   <string name="Scene11_7">(In this cover of the comic you can see Captain Murcia punching hard...)</string>
+   <string name="Scene11_8">(But if it's a Spiderpig comic saving New York City as always...)</string>
+   <string name="Scene11_9">(I remember that in the Mitt of the Infinite all the heroes fought to defeat the great Githanos...)</string>
+  
+   <string name="Scene12_1">Hey Danny, what do you think the key the old man gave us will be used for?</string>
+   <string name="Scene12_2">Well, no idea, to open the bathroom door.</string>
+   <string name="Scene12_3">(Touching Danny's ass)Grrrrrr...</string>
+   <string name="Scene12_4">What was that?! Someone touched my ass!</string>
+   <string name="Scene12_5">I promise you it wasn't me this time.</string>
+   <string name="Scene12_6">And when have you touched me...?</string>
+   <string name="Scene12_7">It was me, young man. I thought you were a cute girl, it's very dark in here.</string>
+   <string name="Scene12_8">You're disgusting, man.</string>
+   <string name="Scene12_9">Sorry son, it's been many years... especially since The Iguana stopped granting me wishes, always helped me flirt in pubs.</string>
+   <string name="Scene12_10">What Iguana?</string>
+   <string name="Scene12_11">The one I've got hanging here!</string>
+   <string name="Scene12_12">The Iguana is a magical Delirium being who can grant you any wish. In order to invoke it, it is necessary to gather the 4 spheres of The Iguana.</string>
+   <string name="Scene12_13">And where can I get those spheres?</string>
+   <string name="Scene12_14">They're scattered all over the city. But to invoke the Iguana, you have to formulate some magic words that only I know.</string>
+   <string name="Scene12_14.5">If you want to know them, you must bring me the spheres and the most beautiful girl in Delirium.</string>
+   <string name="Scene12_15">No girl's coming in here, you perverted pedophile.</string>
+   <string name="Scene12_16">All right, all right, just the balls...</string>
+   <string name="Scene12_17">Are you back yet? Do you have the balls?</string>
+   <string name="Scene12_18">Aquí están, las 4.</string>
+   <string name="Scene12_19">Well, I've got two more.</string>
+   <string name="Scene12_20">(...)</string>
+   <string name="Scene12_21">Anyway, give them to me.</string>
+   <string name="Scene12_22">Here you go, invoke that lizard to get us out of here.</string>
+   <string name="Scene12_23">You see... Maybe I didn't tell you the truth before, it was a pious lie, but... The Iguana does not exist.</string>
+   <string name="Scene12_24"> What? You're telling me I've been looking for your balls for nothing?</string>
+   <string name="Scene12_25">You're egging me, buddy.</string>
+   <string name="Scene12_26">Shut up, Cotton! And you old men, you better give me something in return.</string>
+   <string name="Scene12_27">I don't have anything, seriously, if I'm a poor beggar... The only thing I have is this piece of moldy key...</string>
+   <string name="Scene12_28">... but clean it before using it, it's been stuck where the sun doesn't shine.</string>
+   <string name="Scene12_29">Wait, it looks like it matches the one the guy at the comic book store gave us.</string>
+   <string name="Scene12_30">Try putting them together!</string>
+   <string name="Scene12_31">Yes, they're the same key. What will it open...?</string>
+   <string name="Scene12_32">Its design reminds me of the gate that separates this district from the rich neighborhood, Snobtown.</string>
+   <string name="Scene12_33">Let's go take a look, we don't lose anything.</string>
+    <string name="Scene12_34">See you later, kid!</string>
+
+     	<string name="Cani1">you´re asking for trouble</string>
+ 	   <string name="Rata1">Do you know this Fornique dance?</string>
+     	<string name="Vieja1">Oh, what a handsome young man, he looks like my grandson.</string>
+     	<string name="Rata2">I was playing Delirium GO and almost got Pocashu...</string>
+     	<string name="Cani2">I’m bitting my arm off these T-shirt</string>
+     	<string name="Vieja2">I think I'm lost... I have to go to Victoria's Roumours to buy Paco Ruizbbane's perfume.</string>
+        <string name="Estatua">On the statue plate it says, "Here lies Isaias."</string>
+        <string name="Stanley">For sure the old Stanley will give us something</string>
+
+  
+        <string name="Scene13_1">It seems that this door is closed, I pass to throw through here still...</string>
+        <string name="Scene13_2">Snobtown is the rich area of Delirum, where the high society of Delirium lives. I used to live there, but I left the earthly life...</string>
+        <string name="Scene13_3">(What a ghost)</string>
+    </English>
+	
+	<Spanish>
+		<string name="inventory_full">Mi inventario está lleno.</string>
+
+		<string name="NPC1_1">Bienvenido al mundo de Delirium. Parece que has quedado encerrado en esta habitación.</string>
+		<string name="NPC1_2">Deberías de buscar la manera de salir por la puerta. Quizás haya una llave en algún lado de la habitación...</string>
+		<string name="NPC2_1">¡Ayudame! No encuentro mi plátano.</string>
+		<string name="NPC2_2">¡Gracias por ayudarme!</string>
+		<string name="NPC3_1">No puedes pasar por mi casa. Primero tienes que responder unas preguntas y ya veremos...</string>
+		<string name="NPC3_2">No puedo dejar pasar a un loco como tú.</string>
+		<string name="DoorClosed">La puerta está cerrada y no puedo salir de aquí.</string>
+		<string name="Banana_1">No me apetece un plátano ahora.</string>
+
+		<string name="Scene1_0">No me siento bien...</string>
+		<string name="Scene1_01">No me quiero ir señor St...</string>
+		<string name="Scene1_1">Uff... ¿Cómo demonios he llegado a mi cama? Estaba jugando a Hoberguach y...</string>
+		<string name="Scene1_2">¡No me acuerdo de nada!</string>
+		<string name="Scene1_3">¿Y mi poster de "Iguana Escape"? Y lo más importante... ¿Y mi pomo?</string>
+		<string name="Scene1_4">¡No me jodas! Espero que este chisme no me pegue un chispazo.</string>
+		<string name="Scene1_5">Puede que esto sirva de algo, espero que si no es la contraseña correcta no me pegue un chispazo.</string>
+
+		<string name="Scene2_1">¡Ohhh...! Se parece a Cotton. ¡Mi peluche favorito!</string>
+		<string name="Scene2_2">¡Auch! ¡Cuidado, imbécil! </string>
+		<string name="Scene2_3">¿QUÉ HA SIDO ESO? ¡O me estoy volviendo loco o el jodido peluche me acaba de gritar!</string>
+		<string name="Scene2_4">¡Cómo me toques te rajo! ¿No ves que estoy malherido? </string>
+		<string name="Scene2_5">¡Hostias! ¿Que... que puedo hacer para echarte una mano? </string>
+		<string name="Scene2_6">Vas a tener que coserme... va a ser peor que jugar a "Operación". </string>
+		<string name="Scene2_7">¿Me puedes decir que está pasando aquí? Desde que me he despertado, no paran de ocurrir cosas extrañas.</string>
+		<string name="Scene2_8">A ver, amigo mío, vayamos por partes. Ahora mismo estas en Delirium, un mundo creado a partir de tus sueños. Y yo, soy Cotton, </string>
+		<string name="Scene2_9">tu querido peluche de la infancia, al que abandonaste por ese estúpido ordenador... En fin, el caso es que este mundo es un reflejo del que conoces,</string>
+		<string name="Scene2_10">pero... Digamos que esta "un poco" cambiado. </string>
+		<string name="Scene2_11">Necesito que me de un poco el aire.</string>
+
+		<string name="Scene3_1">Otra pregunta más, ¿cómo has acabado en el suelo reventado?</string>
+		<string name="Scene3_2">Mmm... no me vas a creer, pero ha sido culpa tuya.</string>
+		<string name="Scene3_3">Sí, y en la extinción del dodo también he tenido que ver.</string>
+		<string name="Scene3_4">Desde que llegaste, cosas extrañas han empezado a ocurrir, antes unas criaturas raras de cojones entraron en la casa y me pegaron una paliza.</string>
+		<string name="Scene3_5">Oye... ¿que cielo más morado, no? Me apetece dar una vuelta y ver que hay por la zona.</string>
+		<string name="Scene3_6">No me has escuchado, ¿verdad? </string>
+    	<string name="Scene3_7">Sígueme, te voy a mostrar la plaza y por allí podremos preguntar. </string>
+
+		<string name="Scene4_1">Perdone, señor.</string>
+		<string name="Scene4_2">¿Que quieres, figlio di la mignotta?</string>
+		<string name="Scene4_3">¿Podría decirme donde estamos exactamente?</string>
+		<string name="Scene4_4">¿Que soy, un guía turístico?</string>
+		<string name="Scene4_5">¡MAMMA MIA! ¡Las tuberías! ¡Corre, ayúdame! </string>
+		<string name="Scene4_6">Bene, parece que una de mis... setas, estaba bloqueando el paso del agua...</string>
+		<string name="Scene4_7">Un trato es un trato. Dime donde estamos y como podemos salir de aquí.</string>
+		<string name="Scene4_8">Io no se, pero conozco a una ragazza que podría decirte lo que quieres saber. Se encuentra por el camino de la izquierda.</string>
+		<string name="Scene4_9">"En memoria de Isaias, 16 de octubre de 2017 - 2 de febrero de 2018."</string>
+		<string name="Scene4_10">¿Quién será ese?</string>
+
+		<string name="Scene5_1">Disculpa... me han dicho que tu tienes cierta información que podría servirme. Tal vez podríamos llegar a un acuerdo. Pero antes de nada, ¿cómo te llamas? Yo soy Danny.</string>
+		<string name="Scene5_2">Soy Traper, y si quieres algo de mí, vas a tener que conseguirme un poco de deliriumina.</string>
+		<string name="Scene5_3">Deliriumina, eso me suena. No es que lo haya probado ni nada eh...</string>
+		<string name="Scene5_4">Deberéis volver a la plaza y luego ir por el parking de caravanas de la derecha. Iría yo misma, pero...</string>
+		<string name="Scene5_5">le debo mucha pasta a mi camello. Vais a tener que apañaros vosotros.</string>
+		<string name="Scene5_6">Pero antes de que os vayáis, necesito asegurarme de que no sois policías. Respondedme a algunas preguntas.</string>
+
+		<string name="AbrirBasura">¿Por qué se me ocurre abrir el cubo de basura en un callejón oscuro...?</string>
+		<string name="Analgesico">¡He encontrado un analgésico! Nada bueno puede salir de este objeto.</string>
+		<string name="Deliriumnita">Con esto Traper me dirá lo que quiero saber.</string>
+		<string name="Hilos">Debo ayudar a Cotton antes de que muera "deshilado".</string>
+		<string name="PipeResuelto">Ya no hace falta arreglar la tubería.</string>
+    	<string name="Tunel">Creo que antes deberíamos visitar ThaiGaryen que hay hambre.</string>
+
+
+
+		<string name="Scene6_1">¿Qué es lo que necesitáis?</string>
+		<string name="Scene6_2">¿Tienes un poco de magía? Vengo con mi peluche.</string>
+		<string name="Scene6_3">Vaya parece que es verdad que le das fuerte a la deliriumina.</string>
+		<string name="Scene6_4">Tengo un problema chicos, hace poco se han llevado toda mi mercancía. Pero tengo algunos componentes para hacer más.</string>
+		<string name="Scene6_5">Necesito que busquéis un poco de analgésico, seguramente en algún callejón podáis encontrarlo.</string>
+		<string name="Scene6_6">Gracias chicos. Aquí teneis vuestra parte. Ahora que lo pienso, el chico que se llevo todo se parece un poco a ti, chaval</string>
+		<string name="Scene6_7">(Este tío esta fatal, deberíamos pirarnos ya de aquí).</string>
+
+		<string name="Scene7_1">¿Me has traído lo que queria, conejito malo?</string>
+		<string name="Scene7_2">Mmm... sí, hemos traido la mercancía.</string>
+		<string name="Scene7_3">Dámelo rápido, necesito matar el gusanillo.</string>
+		<string name="Scene7_4">¿Qué quereis saber?</string>
+		<string name="Scene7_5">Me gustaría salir del mundo de Delirium. ¿Cómo podría encontrar la salida?</string>
+
+
+		<string name="Scene7_6">Lo único que te puedo decir es que para encontrar la salida tienes que hacerlo dentro de este mundo...</string>
+		<string name="Scene7_7">Menuda trapficante de información estás hecha. No me has servido para nada incluso habiendo tenido que pillarte mierda de la buena.</string>
+
+    <string name="Scene8_0">¿Quién es tan osado de irrumpir en mis aposentos?</string>
+    <string name="Scene8_1">Bienhallado jóven apuesto, mi nombre es Solitaire, de apellido Fuertesco. ¿Quién sois vos, caballero, para hablarme atreveros?</string>
+    <string name="Scene8_2">Eh... ¿Buenas noches?¿Podría dejarnos pasar?</string>
+    <string name="Scene8_3">¡Para por mis dominios pasar, en una batalla de caballeros deberéis ganar!</string>
+    <string name="Scene8_4">¡Albricias! Habéis demostrado una gran valía, oh, noble caballero.</string>
+    <string name="Scene8_5">Parece que eso de enviar poemas en élfico a chicas ha servido de algo.</string>
+    <string name="Scene8_6">Vos sois digno de pasar al centro de esta gloriosa villa. Goce de nuestras maravillas.</string>
+
+    <string name="Scene9_1">Oye Cotton, tengo algo de hambre, deberíamos de entrar en uno de estos establecimientos.</string>
+    <string name="Scene9_2">Pues vamos a ThaiGaryen que hacen buenos noodles. Tenemos que coger el camino de la derecha.</string>
+    <string name="Scene9_3">¡Sí, por favor! ¡Es una de mis comidas favoritas!</string>
+	<string name="Scene9_4">Ahora que tenemos la barriga calentita, vayamos a dar una vuelta a ver que encontramos.</string>
+
+
+    <string name="Scene10_1">Hola... Buenas noches, ¿en qué le puedo ayudar?</string>
+    <string name="Scene10_2">¿Podrías darnos dos bodas rojas, por favor?</string>
+    <string name="Scene10_3">Claro, siéntense, ahora les sirvo.</string>
+    <string name="Scene10_4">(Parece que es una persona muy cuerda, le preguntaré como salir de aquí...)</string>
+    <string name="Scene10_5">Hola, otra vez, ¿qué desea?</string>
+    <string name="Scene10_6">Quería saber como salir del mundo de Delirium, y nadie me está ayudando últimamente.</string>
+    <string name="Scene10_7">Me encantaría ayudarte, pero antes debéis demostrar que sois dignos, así que tendréis que resolver el... PERGAMINO DE LA ABUELA DE DRAGONES.</string>
+    <string name="Scene10_8">Pero... Esto es un mantel con pasatiempos para niños...</string>
+    <string name="Scene10_9">¡FALACIAS! Este es el legado de nuestra familia, ha pasado de generación en generación como la receta del cachopo.</string>
+    <string name="Scene10_10">Está bien... Lo resolveré.</string>
+    <string name="Scene10_11">El invierno se acerca. Tomad estos fideos calentitos. En ellos encontraréis todo lo que necesitáis saber.</string>
+    <string name="Scene10_12">¿Eh? Los fideos están formando una palabra... ¿Mármol? ¿Cómo Mármol Comics?</string>
+    <string name="Scene10_13">Deberíamos visitar esa tienda, a lo mejor ya ha abierto.</string>
+    
+    <string name="Scene11_1">¡Muy buenas noches, jóvenes!¿Tenéis fotos de Spidercerdo?¡Traedme fotos de Spidercerdo!</string>
+    <string name="Scene11_2">Eh... Hola, me llamo Danny, llevo tiempo buscando la manera de salir de este mundo. ¿Podría usted ayudarme?</string>
+    <string name="Scene11_3">Bueno... Me gustaría ayudarte, pero da la casualidad que solo ayudo a las personas que sepan algo del universo Mármol.</string>
+    <string name="Scene11_4">Prepárate chico, esto va a aser el crossover más ambicioso de la historia.</string>
+    <string name="Scene11_5">¡Increíble! Eres un auténtico fan de Mármol. Estoy pensando en hacer un universo cinematográfico, y tú me has inspirado.</string>
+    <string name="Scene11_5.5">Toma este trozo de llave y recuerda: "Un gran poder, conlleva una gran responsabilidad".</string>
+    <string name="Scene11_6">Gracias señor Stanley, espero que para la próxima me firmes mi cómic del Capitán Murcia.</string>
+    <string name="Scene11_7">(En esta portada del cómic se puede ver al Capitán Murcia repartiendo hostias...)</string>
+    <string name="Scene11_8">(Pero si es un cómic de Spidercerdo salvando como siempre la ciudad de Nueva York...)</string>
+    <string name="Scene11_9">(Recuerdo que en la Manopla del finito todos los héroes lucharon para vencer al gran Githanos...)</string>
+    
+    <string name="Scene12_1">Eh Danny, ¿para qué crees que se usará la llave que nos ha dado el viejo ese?</string>
+    <string name="Scene12_2">Pues ni idea, para abrir la puerta del baño.</string>
+    <string name="Scene12_3">(Tocándole el culo a Danny) Grrrrrr...</string>
+    <string name="Scene12_4">¿¡Qué ha sido eso!? ¡Alguien me ha tocado el culo!</string>
+    <string name="Scene12_5">Te prometo que esta vez no he sido yo.</string>
+    <string name="Scene12_6">¿Y tú cuando me has tocad...?</string>
+    <string name="Scene12_7">He sido yo, jovencito. Pensaba que eras una chica mona, esto está muy oscuro.</string>
+    <string name="Scene12_8">Eres un asqueroso, viejo.</string>
+    <string name="Scene12_9">Perdona hijo, son muchos años a dos velas, sobre todo desde que La Iguana dejó de concederme deseos, siempre me ayudaba a ligar en los pubs.</string>
+    <string name="Scene12_10">¿Qué iguana?</string>
+    <string name="Scene12_11">¡La que tengo aquí colgada!</string>
+    <string name="Scene12_12">La Iguana es un ser mágico de Delirium que puede concederte cualquier deseo. Para invocarla, hay que reunir las 4 esferas de La Iguana.</string>
+    <string name="Scene12_13">¿Y dónde puedo conseguir esas esferas?</string>
+    <string name="Scene12_14">Están desperdigadas por toda la ciudad. Pero para invocar a la Iguana, hay que formular unas palabras mágicas que solo yo conozco.</string>
+    <string name="Scene12_14.5">Si queréis saberlas, deberéis traerme las esferas junto a la chica más guapa de Delirium</string>
+    <string name="Scene12_15">Ninguna chica va a entrar aquí, pedófilo pervertido.</string>
+    <string name="Scene12_16">Está bien, está bien, sólo las bolas...</string>
+    <string name="Scene12_17">¿Ya habéis vuelto? ¿Tenéis las bolas?</string>
+    <string name="Scene12_18">Aquí están, las 4.</string>
+    <string name="Scene12_19">Bueno, yo tengo dos más.</string>
+    <string name="Scene12_20">(...)</string>
+    <string name="Scene12_21">En fin, dádmelas.</string>
+    <string name="Scene12_22">Aquí tienes, invoca al lagarto ese para que nos saque de aquí.</string>
+    <string name="Scene12_23">Verás... Quizá no te dije la verdad antes, fue una mentira piadosa, pero... La Iguana no existe.</string>
+    <string name="Scene12_24"> ¿Qué? ¿Me estás diciendo que he estado buscando tus bolas para nada?</string>
+    <string name="Scene12_25">Me las pones a huevo, colega.</string>
+    <string name="Scene12_26">¡Cállate Cotton! Y tú, viejales, más te vale darme algo a cambio.</string>
+    <string name="Scene12_27">No tengo nada, en serio, si soy un pobre mendigo... Lo único que tengo es este trozo de llave mohosa...</string>
+    <string name="Scene12_28">... pero dale un agüita que ha estado metida donde no da el sol.</string>
+    <string name="Scene12_29">Espera, parece que coincide con la que nos dió el tipo de la tienda de cómics</string>
+    <string name="Scene12_30">¡Prueba a juntarlas!</string>
+    <string name="Scene12_31">Pues sí, son una misma llave. ¿Qué abrirá...?</string>
+    <string name="Scene12_32">Su diseño me recuerda al de la cancela que separa este distrito del barrio rico, Snobtown</string>
+    <string name="Scene12_33">Vayamos a echar un vistazo, no perdemos nada.</string>
+    <string name="Scene12_34">¡Hasta luego, chavalada!</string>
+
+	 <string name="Cani1">EskuXame, tieNe uN siGarriTo x ai? K esToy enMonao...</string>
+	 <string name="Rata1">¿Te sabes este baile del Fornique?</string>
+	 <string name="Vieja1">Ay que jovencito tan guapo, se parece a mi nieto</string>
+	 <string name="Rata2">Estaba jugando a Delirium GO y casi consigo a Pocashu...</string>
+	 <string name="Cani2">ReKuerda GuarDaa Las KosaS biEn eN tu MoXila no VaYa a seR q Te roBe</string>
+	 <string name="Vieja2">Creo que me he perdido... Tengo que ir a Victoria's Roumours a comprarme el perfume de Paco Ruizbbane</string>
+	 <string name="Estatua">En la chapa de la estatua pone: "Aqui yace Isaias"</string>
+     <string name="Stanley">Seguro que el viejo Stanley nos dará algo por acertar</string>
+    
+	<string name="Scene13_1">Parece que esta puerta está cerrada, paso de tirar por aquí aún...</string>
+	<string name="Scene13_2">Snobtown es la zona rica de Delirum, ahí vive la alta sociedad de Delirium. Yo solía vivir ahí, pero me dejé la vida terrenal...</string>
+	<string name="Scene13_3">(Menudo fantasma)</string>
+
+  </Spanish>
+</languages>

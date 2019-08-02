@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 57de0a8c1ed76364ebfe4ff5cbbe4a2a
+timeCreated: 1538001993
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Auricular_telf
+    100002: Auricular_telf.001
+    100004: Cuadro
+    100006: Cuenco
+    100008: Enganche_perchero
+    100010: Espejo
+    100012: Lampara
+    100014: Mango_paraguas
+    100016: Mesilla
+    100018: Paraguero
+    100020: //RootNode
+    100022: Pasillo
+    100024: Perchero
+    100026: Pomo
+    100028: Puerta
+    100030: Visagras
+    400000: Auricular_telf
+    400002: Auricular_telf.001
+    400004: Cuadro
+    400006: Cuenco
+    400008: Enganche_perchero
+    400010: Espejo
+    400012: Lampara
+    400014: Mango_paraguas
+    400016: Mesilla
+    400018: Paraguero
+    400020: Pasillo
+    400022: //RootNode
+    400024: Perchero
+    400026: Pomo
+    400028: Puerta
+    400030: Visagras
+    2300000: Auricular_telf
+    2300002: Auricular_telf.001
+    2300004: Cuadro
+    2300006: Cuenco
+    2300008: Enganche_perchero
+    2300010: Espejo
+    2300012: Lampara
+    2300014: Mango_paraguas
+    2300016: Mesilla
+    2300018: Paraguero
+    2300020: Pasillo
+    2300022: Perchero
+    2300024: Pomo
+    2300026: Puerta
+    2300028: Visagras
+    3300000: Auricular_telf
+    3300002: Auricular_telf.001
+    3300004: Cuadro
+    3300006: Cuenco
+    3300008: Enganche_perchero
+    3300010: Espejo
+    3300012: Lampara
+    3300014: Mango_paraguas
+    3300016: Mesilla
+    3300018: Paraguero
+    3300020: Pasillo
+    3300022: Perchero
+    3300024: Pomo
+    3300026: Puerta
+    3300028: Visagras
+    4300000: Auricular_telf.001
+    4300002: Puerta
+    4300004: Cuenco
+    4300006: Enganche_perchero
+    4300008: Auricular_telf
+    4300010: Mesilla
+    4300012: Espejo
+    4300014: Lampara
+    4300016: Cuadro
+    4300018: Perchero
+    4300020: Mango_paraguas
+    4300022: Paraguero
+    4300024: Visagras
+    4300026: Pasillo
+    4300028: Pomo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bisagras
+    second: {fileID: 2100000, guid: c5cdf5f5368beba4686790a9962545ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a344fac7cea72ac4eab28d891a484b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Perchas
+    second: {fileID: 2100000, guid: 1cbca093bd7e06a4095ee006bc14c16e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

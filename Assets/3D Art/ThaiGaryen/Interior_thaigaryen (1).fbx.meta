@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 99407f314ccb7fa4286b5cd28a0616b0
+timeCreated: 1544205095
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Caja_registradora
+    100002: Cartel_menu
+    100004: Cojin_taburete_1
+    100006: Cojin_taburete_2
+    100008: Cojin_taburete_3
+    100010: Cortinilla
+    100012: Interior_thaigaryen
+    100014: //RootNode
+    100016: Lampara
+    100018: Macetero
+    100020: Mantel
+    100022: Matojo_1
+    100024: Matojo_2
+    100026: Mesa_pared
+    100028: Mostrador
+    100030: Separador_cocina
+    100032: Taburete_1
+    100034: Taburete_2
+    100036: Taburete_3
+    400000: Caja_registradora
+    400002: Cartel_menu
+    400004: Cojin_taburete_1
+    400006: Cojin_taburete_2
+    400008: Cojin_taburete_3
+    400010: Cortinilla
+    400012: Interior_thaigaryen
+    400014: //RootNode
+    400016: Lampara
+    400018: Macetero
+    400020: Mantel
+    400022: Matojo_1
+    400024: Matojo_2
+    400026: Mesa_pared
+    400028: Mostrador
+    400030: Separador_cocina
+    400032: Taburete_1
+    400034: Taburete_2
+    400036: Taburete_3
+    2300000: Caja_registradora
+    2300002: Cartel_menu
+    2300004: Cojin_taburete_1
+    2300006: Cojin_taburete_2
+    2300008: Cojin_taburete_3
+    2300010: Cortinilla
+    2300012: Interior_thaigaryen
+    2300014: Lampara
+    2300016: Macetero
+    2300018: Mantel
+    2300020: Matojo_1
+    2300022: Matojo_2
+    2300024: Mesa_pared
+    2300026: Mostrador
+    2300028: Separador_cocina
+    2300030: Taburete_1
+    2300032: Taburete_2
+    2300034: Taburete_3
+    3300000: Caja_registradora
+    3300002: Cartel_menu
+    3300004: Cojin_taburete_1
+    3300006: Cojin_taburete_2
+    3300008: Cojin_taburete_3
+    3300010: Cortinilla
+    3300012: Interior_thaigaryen
+    3300014: Lampara
+    3300016: Macetero
+    3300018: Mantel
+    3300020: Matojo_1
+    3300022: Matojo_2
+    3300024: Mesa_pared
+    3300026: Mostrador
+    3300028: Separador_cocina
+    3300030: Taburete_1
+    3300032: Taburete_2
+    3300034: Taburete_3
+    4300000: Matojo_1
+    4300002: Cojin_taburete_2
+    4300004: Cojin_taburete_1
+    4300006: Taburete_2
+    4300008: Taburete_1
+    4300010: Cojin_taburete_3
+    4300012: Mantel
+    4300014: Caja_registradora
+    4300016: Matojo_2
+    4300018: Macetero
+    4300020: Taburete_3
+    4300022: Cortinilla
+    4300024: Mesa_pared
+    4300026: Cartel_menu
+    4300028: Interior_thaigaryen
+    4300030: Mostrador
+    4300032: Separador_cocina
+    4300034: Lampara
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: f643cfc2550043f4494316fe62e136f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a344fac7cea72ac4eab28d891a484b6f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

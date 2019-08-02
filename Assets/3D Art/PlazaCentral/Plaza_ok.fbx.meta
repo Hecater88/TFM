@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: a6ca37a8ed9ba9147a92100d5be4ec32
+timeCreated: 1541721064
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arboles_02
+    100002: Cartel_colegio
+    100004: Casa_01
+    100006: Colegio
+    100008: Cubo_basuro_1
+    100010: Cubo_basuro_2
+    100012: Cubo_basuro_3
+    100014: Empty_estatua
+    100016: Empty_farola
+    100018: Empty_tienda
+    100020: Estatua
+    100022: Expositor_tienda
+    100024: Farolas
+    100026: Manzanas
+    100028: Piedra_chica
+    100030: Piedra_grande
+    100032: Pinos_02
+    100034: Piso_01
+    100036: Piso_02
+    100038: Piso_03
+    100040: Piso_04
+    100042: Platano
+    100044: //RootNode
+    100046: Seto_horizontal
+    100048: Seto_vert
+    100050: Setos_colegio
+    100052: Suelo_plaza
+    100054: Tapa_alcantarilla
+    100056: Tienda
+    100058: Tienda_toldo_soporte
+    100060: Vaya_hor_drch
+    100062: Vaya_hor_izq
+    100064: Vaya_vert
+    100066: Veleta_casa_01
+    400000: Arboles_02
+    400002: Cartel_colegio
+    400004: Casa_01
+    400006: Colegio
+    400008: Cubo_basuro_1
+    400010: Cubo_basuro_2
+    400012: Cubo_basuro_3
+    400014: Empty_estatua
+    400016: Empty_farola
+    400018: Empty_tienda
+    400020: Estatua
+    400022: Expositor_tienda
+    400024: Farolas
+    400026: Manzanas
+    400028: Piedra_chica
+    400030: Piedra_grande
+    400032: Pinos_02
+    400034: Piso_01
+    400036: Piso_02
+    400038: Piso_03
+    400040: Piso_04
+    400042: Platano
+    400044: //RootNode
+    400046: Seto_horizontal
+    400048: Seto_vert
+    400050: Setos_colegio
+    400052: Suelo_plaza
+    400054: Tapa_alcantarilla
+    400056: Tienda
+    400058: Tienda_toldo_soporte
+    400060: Vaya_hor_drch
+    400062: Vaya_hor_izq
+    400064: Vaya_vert
+    400066: Veleta_casa_01
+    2300000: Arboles_02
+    2300002: Cartel_colegio
+    2300004: Casa_01
+    2300006: Colegio
+    2300008: Cubo_basuro_1
+    2300010: Cubo_basuro_2
+    2300012: Cubo_basuro_3
+    2300014: Estatua
+    2300016: Expositor_tienda
+    2300018: Farolas
+    2300020: Manzanas
+    2300022: Piedra_chica
+    2300024: Piedra_grande
+    2300026: Pinos_02
+    2300028: Piso_01
+    2300030: Piso_02
+    2300032: Piso_03
+    2300034: Piso_04
+    2300036: Platano
+    2300038: Seto_horizontal
+    2300040: Seto_vert
+    2300042: Setos_colegio
+    2300044: Suelo_plaza
+    2300046: Tapa_alcantarilla
+    2300048: Tienda
+    2300050: Tienda_toldo_soporte
+    2300052: Vaya_hor_drch
+    2300054: Vaya_hor_izq
+    2300056: Vaya_vert
+    2300058: Veleta_casa_01
+    3300000: Arboles_02
+    3300002: Cartel_colegio
+    3300004: Casa_01
+    3300006: Colegio
+    3300008: Cubo_basuro_1
+    3300010: Cubo_basuro_2
+    3300012: Cubo_basuro_3
+    3300014: Estatua
+    3300016: Expositor_tienda
+    3300018: Farolas
+    3300020: Manzanas
+    3300022: Piedra_chica
+    3300024: Piedra_grande
+    3300026: Pinos_02
+    3300028: Piso_01
+    3300030: Piso_02
+    3300032: Piso_03
+    3300034: Piso_04
+    3300036: Platano
+    3300038: Seto_horizontal
+    3300040: Seto_vert
+    3300042: Setos_colegio
+    3300044: Suelo_plaza
+    3300046: Tapa_alcantarilla
+    3300048: Tienda
+    3300050: Tienda_toldo_soporte
+    3300052: Vaya_hor_drch
+    3300054: Vaya_hor_izq
+    3300056: Vaya_vert
+    3300058: Veleta_casa_01
+    4300000: Cartel_colegio
+    4300002: Platano
+    4300004: Manzanas
+    4300006: Cubo_basuro_3
+    4300008: Cubo_basuro_2
+    4300010: Cubo_basuro_1
+    4300012: Piso_04
+    4300014: Piso_03
+    4300016: Seto_horizontal
+    4300018: Colegio
+    4300020: Setos_colegio
+    4300022: Piso_02
+    4300024: Tapa_alcantarilla
+    4300026: Pinos_02
+    4300028: Veleta_casa_01
+    4300030: Estatua
+    4300032: Piedra_chica
+    4300034: Piedra_grande
+    4300036: Expositor_tienda
+    4300038: Tienda_toldo_soporte
+    4300040: Tienda
+    4300042: Vaya_vert
+    4300044: Vaya_hor_izq
+    4300046: Vaya_hor_drch
+    4300048: Piso_01
+    4300050: Suelo_plaza
+    4300052: Farolas
+    4300054: Seto_vert
+    4300056: Arboles_02
+    4300058: Casa_01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo_Platano_
+    second: {fileID: 2100000, guid: 2d6f007cb7458fb41b1f7fc3700e4cf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo_manzana
+    second: {fileID: 2100000, guid: cad1db1c99c987b45b43eb321037bb8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.005
+    second: {fileID: 2100000, guid: e968fb733806446418988acefe832de5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro_platano
+    second: {fileID: 2100000, guid: 3ed628c7b72459d4fabc236fb3c80f3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a344fac7cea72ac4eab28d891a484b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roca.001
+    second: {fileID: 2100000, guid: 9001b0fdef55af145ac4c460d4177680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo_manzana
+    second: {fileID: 2100000, guid: c9fc8843210d1164184b1b8b0100fd78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tallo_manzana
+    second: {fileID: 2100000, guid: e6bdb11b877f556428c9610abf55fb3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde_manzana
+    second: {fileID: 2100000, guid: 07a2463f14287dd4ea47252534988fd8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 60ad8b18e24903e48b9b8caf4e3d7d55
+timeCreated: 1544110275
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Babosa
+    100002: Bender
+    100004: Bodoreka
+    100006: Caja_registradora
+    100008: Caratula_ps4_1_cuarto_danny
+    100010: Cartucho_nes_1_cuarto_danny
+    100012: Comics_1
+    100014: Comics_1.001
+    100016: Comics_2
+    100018: Comics_2.001
+    100020: Comics_3
+    100022: Comics_3.001
+    100024: Comics_4
+    100026: Comics_5
+    100028: Comics_6
+    100030: El_super_perrati
+    100032: Escudo
+    100034: Estanteria_1
+    100036: Estanteria_2
+    100038: Hacha_krato
+    100040: Lamparas
+    100042: Llave_espada
+    100044: Mario
+    100046: Marmol_comics
+    100048: //RootNode
+    100050: Martillo
+    100052: Mazinger
+    100054: Mesa
+    100056: Mostrador
+    100058: NES_cuarto_danny
+    100060: No_face
+    100062: Ojos_mario
+    100064: oogie_boogie
+    100066: Pac-man
+    100068: Peana_martillo
+    100070: Perrari
+    100072: Pierre_nodoyuna
+    100074: Pistola_portales
+    100076: Plane
+    100078: PS4_cuarto_danny.001
+    100080: Stands_comics_1
+    100082: Stands_comics_2
+    400000: Babosa
+    400002: Bender
+    400004: Bodoreka
+    400006: Caja_registradora
+    400008: Caratula_ps4_1_cuarto_danny
+    400010: Cartucho_nes_1_cuarto_danny
+    400012: Comics_1
+    400014: Comics_1.001
+    400016: Comics_2
+    400018: Comics_2.001
+    400020: Comics_3
+    400022: Comics_3.001
+    400024: Comics_4
+    400026: Comics_5
+    400028: Comics_6
+    400030: El_super_perrati
+    400032: Escudo
+    400034: Estanteria_1
+    400036: Estanteria_2
+    400038: Hacha_krato
+    400040: Lamparas
+    400042: Llave_espada
+    400044: Mario
+    400046: Marmol_comics
+    400048: //RootNode
+    400050: Martillo
+    400052: Mazinger
+    400054: Mesa
+    400056: Mostrador
+    400058: NES_cuarto_danny
+    400060: No_face
+    400062: Ojos_mario
+    400064: oogie_boogie
+    400066: Pac-man
+    400068: Peana_martillo
+    400070: Perrari
+    400072: Pierre_nodoyuna
+    400074: Pistola_portales
+    400076: Plane
+    400078: PS4_cuarto_danny.001
+    400080: Stands_comics_1
+    400082: Stands_comics_2
+    2300000: Babosa
+    2300002: Bender
+    2300004: Bodoreka
+    2300006: Caja_registradora
+    2300008: Caratula_ps4_1_cuarto_danny
+    2300010: Cartucho_nes_1_cuarto_danny
+    2300012: Comics_1
+    2300014: Comics_1.001
+    2300016: Comics_2
+    2300018: Comics_2.001
+    2300020: Comics_3
+    2300022: Comics_3.001
+    2300024: Comics_4
+    2300026: Comics_5
+    2300028: Comics_6
+    2300030: El_super_perrati
+    2300032: Escudo
+    2300034: Estanteria_1
+    2300036: Estanteria_2
+    2300038: Hacha_krato
+    2300040: Lamparas
+    2300042: Llave_espada
+    2300044: Marmol_comics
+    2300046: Martillo
+    2300048: Mazinger
+    2300050: Mesa
+    2300052: Mostrador
+    2300054: NES_cuarto_danny
+    2300056: No_face
+    2300058: Ojos_mario
+    2300060: oogie_boogie
+    2300062: Pac-man
+    2300064: Peana_martillo
+    2300066: Perrari
+    2300068: Pierre_nodoyuna
+    2300070: Pistola_portales
+    2300072: Plane
+    2300074: PS4_cuarto_danny.001
+    2300076: Stands_comics_1
+    2300078: Stands_comics_2
+    3300000: Babosa
+    3300002: Bender
+    3300004: Bodoreka
+    3300006: Caja_registradora
+    3300008: Caratula_ps4_1_cuarto_danny
+    3300010: Cartucho_nes_1_cuarto_danny
+    3300012: Comics_1
+    3300014: Comics_1.001
+    3300016: Comics_2
+    3300018: Comics_2.001
+    3300020: Comics_3
+    3300022: Comics_3.001
+    3300024: Comics_4
+    3300026: Comics_5
+    3300028: Comics_6
+    3300030: El_super_perrati
+    3300032: Escudo
+    3300034: Estanteria_1
+    3300036: Estanteria_2
+    3300038: Hacha_krato
+    3300040: Lamparas
+    3300042: Llave_espada
+    3300044: Marmol_comics
+    3300046: Martillo
+    3300048: Mazinger
+    3300050: Mesa
+    3300052: Mostrador
+    3300054: NES_cuarto_danny
+    3300056: No_face
+    3300058: Ojos_mario
+    3300060: oogie_boogie
+    3300062: Pac-man
+    3300064: Peana_martillo
+    3300066: Perrari
+    3300068: Pierre_nodoyuna
+    3300070: Pistola_portales
+    3300072: Plane
+    3300074: PS4_cuarto_danny.001
+    3300076: Stands_comics_1
+    3300078: Stands_comics_2
+    4300000: Lamparas
+    4300002: Estanteria_2
+    4300004: Comics_6
+    4300006: Comics_5
+    4300008: Comics_4
+    4300010: Estanteria_1
+    4300012: Plane
+    4300014: Hacha_krato
+    4300016: oogie_boogie
+    4300018: No_face
+    4300020: Mesa
+    4300022: Llave_espada
+    4300024: Peana_martillo
+    4300026: Martillo
+    4300028: Pac-man
+    4300030: Escudo
+    4300032: Comics_1.001
+    4300034: Comics_2.001
+    4300036: Comics_3.001
+    4300038: Comics_3
+    4300040: Comics_2
+    4300042: Stands_comics_2
+    4300044: Comics_1
+    4300046: Stands_comics_1
+    4300048: Marmol_comics
+    4300050: Caja_registradora
+    4300052: Mostrador
+    4300054: El_super_perrati
+    4300056: Pierre_nodoyuna
+    4300058: Perrari
+    4300060: Mazinger
+    4300062: Bender
+    4300064: Bodoreka
+    4300066: Babosa
+    4300068: Caratula_ps4_1_cuarto_danny
+    4300070: Cartucho_nes_1_cuarto_danny
+    4300072: NES_cuarto_danny
+    4300074: PS4_cuarto_danny.001
+    4300076: Mario
+    4300078: Ojos_mario
+    4300080: Pistola_portales
+    9500000: //RootNode
+    13700000: Mario
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo
+    second: {fileID: 2100000, guid: 40221444a5d186344be39da0dee53112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo.001
+    second: {fileID: 2100000, guid: b3b3d19dc8af70d41ae8c597c3e8f038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillos.002
+    second: {fileID: 2100000, guid: b209fe6da1215d746807f1c0b33376e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul.002
+    second: {fileID: 2100000, guid: 5854186bd04e32f4c888b624c6627c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul_violaceo
+    second: {fileID: 2100000, guid: bf883201755b25848ac57d7e5d4030cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul_violaceo_claro
+    second: {fileID: 2100000, guid: 914ff0ce39f59d6438d398000e8060c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bigote.002
+    second: {fileID: 2100000, guid: 7af5fa3d03bf7cc4fa07c55dc387a827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanco.001
+    second: {fileID: 2100000, guid: 4ef79afae3a224f46b6fb9b0a302efd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanco.002
+    second: {fileID: 2100000, guid: 3c8a7f60e57d72c4ba4afb1622364041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanco.004
+    second: {fileID: 2100000, guid: 05f26cc991fb3e742b1d054291edca65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brazos
+    second: {fileID: 2100000, guid: a052252c2fb461d44b5eb84123e4cb5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cristal
+    second: {fileID: 2100000, guid: d593a445a114aaf47a1e846de12409ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuernos
+    second: {fileID: 2100000, guid: 883dc571166ec7f4ea9f6f5b9d5579a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuerpo
+    second: {fileID: 2100000, guid: dafac3b302a03e24a94131b7c2687d81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuerpo negro
+    second: {fileID: 2100000, guid: 807badae5fac0244f84b010c6b58abe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detalles
+    second: {fileID: 2100000, guid: 130bf299e9ef1524fa2ac11bdd6d1221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estanteria
+    second: {fileID: 2100000, guid: 53c6b084c0e9d084fa3a220cdf253e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris
+    second: {fileID: 2100000, guid: 7e02f68b916481149b6b7fef19e7d972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris.001
+    second: {fileID: 2100000, guid: c83408cc2cee525479e15a67b3cf16e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_bodoreka
+    second: {fileID: 2100000, guid: eda2f6754300f714d8657a5852ee4693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_claro.001
+    second: {fileID: 2100000, guid: 60524302e6aef2a408bda7d5c82bdedc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_oscuro
+    second: {fileID: 2100000, guid: a766b7589595e1c4ebb080ec5cbacae1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_oscuro.001
+    second: {fileID: 2100000, guid: c39838b84c9df0741bcf2ab3bc397fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_oscuro.002
+    second: {fileID: 2100000, guid: ff183347c67db9d4f92ba28f1c302643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_oscuro.004
+    second: {fileID: 2100000, guid: 95d45d5074d82144b9bfbc8fa29cc598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lengua
+    second: {fileID: 2100000, guid: b19aaec53add7414797f451e6ebc31ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: dfc0c9f64107ba14b9b90f8b82457fbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 58ee9c033d942714fa4cb32474cdb3ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 9fc8203b04bc0d44aab42f774d92901b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 53c795e08fbc61b43a9ecc81471eaea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Morado
+    second: {fileID: 2100000, guid: b9142c32058ab4d4f9475bd94ead02e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro
+    second: {fileID: 2100000, guid: 30f4c05b12b0f534a84984240b0bf7be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro.001
+    second: {fileID: 2100000, guid: 1e3272a21087b5342b30626893122693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro.002
+    second: {fileID: 2100000, guid: 04620e3fedc46cb4aaed303d82fc7ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neumatico
+    second: {fileID: 2100000, guid: 0692819545bdc714a9ae63ce4328a99e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a344fac7cea72ac4eab28d891a484b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ojos.002
+    second: {fileID: 2100000, guid: d079f37b0c58dc84fa7ad547866ecfe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pelo.002
+    second: {fileID: 2100000, guid: 2c6aa043fe407f941acc42f26a2f12d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piel.002
+    second: {fileID: 2100000, guid: 0abcf227d3407134cb6fbc308b4461ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo
+    second: {fileID: 2100000, guid: 154859ffe65c01349a497174b93dec8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo.004
+    second: {fileID: 2100000, guid: 9e7992ae96525d246aea4e0128d25b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo.005
+    second: {fileID: 2100000, guid: 7fde368cc74fe694c8d39aefe0cb9f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo_bodoreka
+    second: {fileID: 2100000, guid: 37e59260b60c03540b592cbbfbd3f9d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suela.002
+    second: {fileID: 2100000, guid: b85d1853b11836b498e131e38baade5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde
+    second: {fileID: 2100000, guid: 21fe31f14ce1920488dab9b8f07f7991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde_radiactivo.001
+    second: {fileID: 2100000, guid: a997b253011ea8448b8956f733b8a405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Violeta
+    second: {fileID: 2100000, guid: e93333abe815d094d92589ea50820a53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zapato.002
+    second: {fileID: 2100000, guid: 49c72e05c52b58f4e89ce1f1de847315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textura
+    second: {fileID: 2100000, guid: ff183347c67db9d4f92ba28f1c302643, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

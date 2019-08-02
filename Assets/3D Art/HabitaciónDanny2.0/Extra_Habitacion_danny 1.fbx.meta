@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 2b42b99389ea4544c976218248f607e7
+timeCreated: 1544726613
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 6
+    100002: Adorno_rejilla_delantera
+    100004: Apisonadora
+    100006: Barillas_rejilla_delantera
+    100008: BezierCurve
+    100010: Caratula_ps4_1_cuarto_danny
+    100012: Caratula_ps4_2_cuarto_danny
+    100014: Caratula_ps4_3_cuarto_danny
+    100016: Caratula_ps4_4_cuarto_danny
+    100018: Caratula_ps4_5_cuarto_danny
+    100020: Caratula_ps4_6_cuarto_danny
+    100022: Carteles
+    100024: Cartucho_nes_1_cuarto_danny.001
+    100026: Cartucho_nes_2_cuarto_danny
+    100028: Cartucho_nes_3_cuarto_danny
+    100030: "Ca\xF1on_tanque"
+    100032: Clavija_nunchaku
+    100034: Coche
+    100036: Cube
+    100038: Escalerilla_tanque
+    100040: //RootNode
+    100042: Faros
+    100044: Monton_ropa
+    100046: Nunchakus
+    100048: Pantalla_pc_cuarto_danny.003
+    100050: Parte_arriba_pc_gaming_cuarto_danny
+    100052: PC_gaming_cuarto_danny
+    100054: Peana_sable
+    100056: Pieza_tetris_1
+    100058: Pieza_tetris_2
+    100060: Pieza_tetris_3
+    100062: Pieza_tetris_4
+    100064: Pieza_tetris_5
+    100066: Pieza_tetris_6
+    100068: Pieza_tetris_7
+    100070: Puerta_tanque
+    100072: Raton_cuarto_danny
+    100074: Rejilla_delantera
+    100076: Ruedas
+    100078: Sable_laser
+    100080: Seta_mario
+    100082: Sillon
+    100084: Soporte_turbos
+    100086: Suela_ruedas
+    100088: Tanque
+    100090: Teclado_cuarto_danny
+    100092: tornillo_union_apisonadora
+    100094: Turbos
+    100096: Union_apisonadora
+    100098: Volante
+    100100: W
+    400000: 6
+    400002: Adorno_rejilla_delantera
+    400004: Apisonadora
+    400006: Barillas_rejilla_delantera
+    400008: BezierCurve
+    400010: Caratula_ps4_1_cuarto_danny
+    400012: Caratula_ps4_2_cuarto_danny
+    400014: Caratula_ps4_3_cuarto_danny
+    400016: Caratula_ps4_4_cuarto_danny
+    400018: Caratula_ps4_5_cuarto_danny
+    400020: Caratula_ps4_6_cuarto_danny
+    400022: Carteles
+    400024: Cartucho_nes_1_cuarto_danny.001
+    400026: Cartucho_nes_2_cuarto_danny
+    400028: Cartucho_nes_3_cuarto_danny
+    400030: "Ca\xF1on_tanque"
+    400032: Clavija_nunchaku
+    400034: Coche
+    400036: Cube
+    400038: Escalerilla_tanque
+    400040: //RootNode
+    400042: Faros
+    400044: Monton_ropa
+    400046: Nunchakus
+    400048: Pantalla_pc_cuarto_danny.003
+    400050: Parte_arriba_pc_gaming_cuarto_danny
+    400052: PC_gaming_cuarto_danny
+    400054: Peana_sable
+    400056: Pieza_tetris_1
+    400058: Pieza_tetris_2
+    400060: Pieza_tetris_3
+    400062: Pieza_tetris_4
+    400064: Pieza_tetris_5
+    400066: Pieza_tetris_6
+    400068: Pieza_tetris_7
+    400070: Puerta_tanque
+    400072: Raton_cuarto_danny
+    400074: Rejilla_delantera
+    400076: Ruedas
+    400078: Sable_laser
+    400080: Seta_mario
+    400082: Sillon
+    400084: Soporte_turbos
+    400086: Suela_ruedas
+    400088: Tanque
+    400090: Teclado_cuarto_danny
+    400092: tornillo_union_apisonadora
+    400094: Turbos
+    400096: Union_apisonadora
+    400098: Volante
+    400100: W
+    2300000: 6
+    2300002: Adorno_rejilla_delantera
+    2300004: Apisonadora
+    2300006: Barillas_rejilla_delantera
+    2300008: BezierCurve
+    2300010: Caratula_ps4_1_cuarto_danny
+    2300012: Caratula_ps4_2_cuarto_danny
+    2300014: Caratula_ps4_3_cuarto_danny
+    2300016: Caratula_ps4_4_cuarto_danny
+    2300018: Caratula_ps4_5_cuarto_danny
+    2300020: Caratula_ps4_6_cuarto_danny
+    2300022: Carteles
+    2300024: Cartucho_nes_1_cuarto_danny.001
+    2300026: Cartucho_nes_2_cuarto_danny
+    2300028: Cartucho_nes_3_cuarto_danny
+    2300030: "Ca\xF1on_tanque"
+    2300032: Clavija_nunchaku
+    2300034: Coche
+    2300036: Cube
+    2300038: Escalerilla_tanque
+    2300040: Faros
+    2300042: Monton_ropa
+    2300044: Nunchakus
+    2300046: Pantalla_pc_cuarto_danny.003
+    2300048: Parte_arriba_pc_gaming_cuarto_danny
+    2300050: PC_gaming_cuarto_danny
+    2300052: Peana_sable
+    2300054: Pieza_tetris_1
+    2300056: Pieza_tetris_2
+    2300058: Pieza_tetris_3
+    2300060: Pieza_tetris_4
+    2300062: Pieza_tetris_5
+    2300064: Pieza_tetris_6
+    2300066: Pieza_tetris_7
+    2300068: Puerta_tanque
+    2300070: Raton_cuarto_danny
+    2300072: Rejilla_delantera
+    2300074: Ruedas
+    2300076: Sable_laser
+    2300078: Seta_mario
+    2300080: Sillon
+    2300082: Soporte_turbos
+    2300084: Suela_ruedas
+    2300086: Tanque
+    2300088: Teclado_cuarto_danny
+    2300090: tornillo_union_apisonadora
+    2300092: Turbos
+    2300094: Union_apisonadora
+    2300096: Volante
+    2300098: W
+    3300000: 6
+    3300002: Adorno_rejilla_delantera
+    3300004: Apisonadora
+    3300006: Barillas_rejilla_delantera
+    3300008: BezierCurve
+    3300010: Caratula_ps4_1_cuarto_danny
+    3300012: Caratula_ps4_2_cuarto_danny
+    3300014: Caratula_ps4_3_cuarto_danny
+    3300016: Caratula_ps4_4_cuarto_danny
+    3300018: Caratula_ps4_5_cuarto_danny
+    3300020: Caratula_ps4_6_cuarto_danny
+    3300022: Carteles
+    3300024: Cartucho_nes_1_cuarto_danny.001
+    3300026: Cartucho_nes_2_cuarto_danny
+    3300028: Cartucho_nes_3_cuarto_danny
+    3300030: "Ca\xF1on_tanque"
+    3300032: Clavija_nunchaku
+    3300034: Coche
+    3300036: Cube
+    3300038: Escalerilla_tanque
+    3300040: Faros
+    3300042: Monton_ropa
+    3300044: Nunchakus
+    3300046: Pantalla_pc_cuarto_danny.003
+    3300048: Parte_arriba_pc_gaming_cuarto_danny
+    3300050: PC_gaming_cuarto_danny
+    3300052: Peana_sable
+    3300054: Pieza_tetris_1
+    3300056: Pieza_tetris_2
+    3300058: Pieza_tetris_3
+    3300060: Pieza_tetris_4
+    3300062: Pieza_tetris_5
+    3300064: Pieza_tetris_6
+    3300066: Pieza_tetris_7
+    3300068: Puerta_tanque
+    3300070: Raton_cuarto_danny
+    3300072: Rejilla_delantera
+    3300074: Ruedas
+    3300076: Sable_laser
+    3300078: Seta_mario
+    3300080: Sillon
+    3300082: Soporte_turbos
+    3300084: Suela_ruedas
+    3300086: Tanque
+    3300088: Teclado_cuarto_danny
+    3300090: tornillo_union_apisonadora
+    3300092: Turbos
+    3300094: Union_apisonadora
+    3300096: Volante
+    3300098: W
+    4300000: Cube
+    4300002: Seta_mario
+    4300004: Monton_ropa
+    4300006: Nunchakus
+    4300008: Clavija_nunchaku
+    4300010: Sable_laser
+    4300012: Cartucho_nes_2_cuarto_danny
+    4300014: Cartucho_nes_1_cuarto_danny.001
+    4300016: Cartucho_nes_3_cuarto_danny
+    4300018: Caratula_ps4_6_cuarto_danny
+    4300020: Caratula_ps4_5_cuarto_danny
+    4300022: Caratula_ps4_4_cuarto_danny
+    4300024: Caratula_ps4_3_cuarto_danny
+    4300026: Caratula_ps4_2_cuarto_danny
+    4300028: Caratula_ps4_1_cuarto_danny
+    4300030: Parte_arriba_pc_gaming_cuarto_danny
+    4300032: Raton_cuarto_danny
+    4300034: Pantalla_pc_cuarto_danny.003
+    4300036: Teclado_cuarto_danny
+    4300038: PC_gaming_cuarto_danny
+    4300040: Pieza_tetris_3
+    4300042: Pieza_tetris_7
+    4300044: Pieza_tetris_2
+    4300046: Pieza_tetris_4
+    4300048: Pieza_tetris_6
+    4300050: Pieza_tetris_1
+    4300052: Pieza_tetris_5
+    4300054: Peana_sable
+    4300056: BezierCurve
+    4300058: Turbos
+    4300060: Soporte_turbos
+    4300062: Puerta_tanque
+    4300064: "Ca\xF1on_tanque"
+    4300066: Sillon
+    4300068: Volante
+    4300070: Apisonadora
+    4300072: Union_apisonadora
+    4300074: Faros
+    4300076: Barillas_rejilla_delantera
+    4300078: Adorno_rejilla_delantera
+    4300080: Rejilla_delantera
+    4300082: Coche
+    4300084: tornillo_union_apisonadora
+    4300086: Tanque
+    4300088: W
+    4300090: 6
+    4300092: Suela_ruedas
+    4300094: Carteles
+    4300096: Ruedas
+    4300098: Escalerilla_tanque
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo_1
+    second: {fileID: 2100000, guid: dfcff3a3f05c5fb468d07ea42fa1c613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo_2
+    second: {fileID: 2100000, guid: 36eaf984b7bc65545b7000da180166d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillos
+    second: {fileID: 2100000, guid: 588ced0ff2b8ed64a93bf9c17a7c1f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul_violaceo_claro
+    second: {fileID: 2100000, guid: 914ff0ce39f59d6438d398000e8060c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanco
+    second: {fileID: 2100000, guid: dd7f48fabe8a11443a9ff2a2200d310a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brazos
+    second: {fileID: 2100000, guid: a052252c2fb461d44b5eb84123e4cb5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cristal
+    second: {fileID: 2100000, guid: d593a445a114aaf47a1e846de12409ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detalles
+    second: {fileID: 2100000, guid: 130bf299e9ef1524fa2ac11bdd6d1221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris
+    second: {fileID: 2100000, guid: 7e02f68b916481149b6b7fef19e7d972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_2
+    second: {fileID: 2100000, guid: 4abdf19cff352ff49b06651ef19744b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_oscuro.001
+    second: {fileID: 2100000, guid: c39838b84c9df0741bcf2ab3bc397fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lengua
+    second: {fileID: 2100000, guid: b19aaec53add7414797f451e6ebc31ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 58ee9c033d942714fa4cb32474cdb3ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 53c795e08fbc61b43a9ecc81471eaea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 98dede0b9f194c344992c1b3edef8a6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro
+    second: {fileID: 2100000, guid: 30f4c05b12b0f534a84984240b0bf7be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a344fac7cea72ac4eab28d891a484b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo.001
+    second: {fileID: 2100000, guid: 56eef89916f8e9544bf6de86d3208d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turquesa_1
+    second: {fileID: 2100000, guid: 5ced675758ddfbd46a7b911bfc9b8337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turquesa_2
+    second: {fileID: 2100000, guid: 465d32f4f8e7ed0429f0769a72e59174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde_1
+    second: {fileID: 2100000, guid: 0fe4ed9c08eda204aab30cb3cb1868ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde_radiactivo
+    second: {fileID: 2100000, guid: 4b09b61a246228e4ebafcb866b65c829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Violeta
+    second: {fileID: 2100000, guid: e93333abe815d094d92589ea50820a53, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

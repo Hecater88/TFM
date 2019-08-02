@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: fdc85e8aa42eb1640a5533a8bf7861b6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Danny_0
+    21300002: Danny_1
+    21300004: Danny_2
+    21300006: Danny_3
+    21300008: Danny_4
+    21300010: Danny_5
+    21300012: Danny_6
+    21300014: Danny_7
+    21300016: Danny_8
+    21300018: Danny_9
+    21300020: Danny_10
+    21300022: Danny_11
+    21300024: Danny_12
+    21300026: Danny_13
+    21300028: Danny_14
+    21300030: Danny_15
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Danny_0
+      rect:
+        serializedVersion: 2
+        x: 187.97931
+        y: 378
+        width: 943.4255
+        height: 2627.2969
+      alignment: 9
+      pivot: {x: 0.49873644, y: 0.49956283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205dfa8fb77a47a428fb084f7f02bf40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_1
+      rect:
+        serializedVersion: 2
+        x: 1317.2216
+        y: 2656.1277
+        width: 191.5664
+        height: 141.89258
+      alignment: 9
+      pivot: {x: 0.49736446, y: 0.4325266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa3835f397b4b498a4731b2f6d9c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_2
+      rect:
+        serializedVersion: 2
+        x: 1536.6146
+        y: 2659.0046
+        width: 109.34766
+        height: 135.04102
+      alignment: 9
+      pivot: {x: 0.4059095, y: 0.4479777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e71ddea7084442a3561d917cab2cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2772
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187ae102d0deb14c81fbd534f0fb4b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_4
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2682
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aaf8ee86090094684c2cecc124d461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_5
+      rect:
+        serializedVersion: 2
+        x: 1898.277
+        y: 2710.4888
+        width: 135.04102
+        height: 71.66406
+      alignment: 9
+      pivot: {x: 0.4940945, y: 0.44668114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d7106df0f8b974ab59b19d8da09503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_6
+      rect:
+        serializedVersion: 2
+        x: 1899.7068
+        y: 2557.51
+        width: 135.04102
+        height: 99.07031
+      alignment: 9
+      pivot: {x: 0.5020185, y: 0.47430947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9bd6a177f6d0f4f8281b91822a944a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_7
+      rect:
+        serializedVersion: 2
+        x: 1317.3506
+        y: 2413.3738
+        width: 191.5664
+        height: 143.60547
+      alignment: 9
+      pivot: {x: 0.4940815, y: 0.4465427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937da90592db59847b09b76116dcee43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_8
+      rect:
+        serializedVersion: 2
+        x: 1536.6147
+        y: 2413.6658
+        width: 107.634766
+        height: 135.04102
+      alignment: 9
+      pivot: {x: 0.40772265, y: 0.46529737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b1a43833f376343b06548823424bbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2529
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf364d2cc650174aad68130ad0c1add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2440
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67024d859a698044ab47581ed3a6d65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_11
+      rect:
+        serializedVersion: 2
+        x: 1889.8223
+        y: 2415.2744
+        width: 138.4668
+        height: 64.8125
+      alignment: 9
+      pivot: {x: 0.49598703, y: 0.48949796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3923aa090477ede48b08d35c5d30156d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_12
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 2355
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35fd4a81d523744d952adbdff853ce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_13
+      rect:
+        serializedVersion: 2
+        x: 1336.3392
+        y: 2300.3154
+        width: 124.76367
+        height: 45.970703
+      alignment: 9
+      pivot: {x: 0.48219684, y: 0.47170946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f44f2eba65fd4d8d2bc568943525a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_14
+      rect:
+        serializedVersion: 2
+        x: 1523.0121
+        y: 2303.6025
+        width: 85.36719
+        height: 35.69336
+      alignment: 9
+      pivot: {x: 0.4977078, y: 0.5434473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a147cbe36b20ffe44aa6e6ea5ddddcf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Danny_15
+      rect:
+        serializedVersion: 2
+        x: 1880.8234
+        y: 2287.6711
+        width: 155.5957
+        height: 64.8125
+      alignment: 9
+      pivot: {x: 0.49922097, y: 0.49108756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b900e3ef956f54aa2f277faf6c1e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a0c17eb41cc4b34cb1efae3547579a0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 636765974159713548
+  assetBundleName: 
+  assetBundleVariant: 

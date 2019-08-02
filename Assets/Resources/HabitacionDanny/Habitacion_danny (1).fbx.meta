@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: ff48e19acbd672f48b0f9da5b2b7c087
+timeCreated: 1530027412
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Alfombra
+    100002: "Armario_habitaci\xF3n_danny"
+    100004: Cajon_inferior_comoda
+    100006: Cajon_superior_comoda
+    100008: Cama
+    100010: Caratula_ps4_1_cuarto_danny
+    100012: Cartel_chincheta
+    100014: Cartel_danny
+    100016: Cartucho_nes_1_cuarto_danny
+    100018: Comoda
+    100020: Corcho
+    100022: Corcho_chincheta_01
+    100024: Corcho_imagenes
+    100026: Empty_armario
+    100028: Empty_basura
+    100030: Empty_cama
+    100032: Empty_cartel
+    100034: Empty_comoda
+    100036: Empty_corcho
+    100038: Empty_estanteria_2
+    100040: Empty_libros
+    100042: Empty_mesa
+    100044: Empty_nes
+    100046: Empty_pc
+    100048: Empty_silla
+    100050: Empty_videojuegos_nes
+    100052: Empty_videojuegos_ps4
+    100054: Escritorio
+    100056: Estanteria_2_cuarto_danny
+    100058: //RootNode
+    100060: "Habitaci\xF3n_danny"
+    100062: Lampara
+    100064: NES_cuarto_danny
+    100066: Papelera
+    100068: Patas_silla
+    100070: PC_gaming_cuarto_danny
+    100072: "Pomo_armario_habitaci\xF3n_danny"
+    100074: Poster
+    100076: PS4_cuarto_danny
+    100078: "Puerta_habitaci\xF3n_danny"
+    100080: Sujeta_libros
+    100082: TV_cuarto_danny
+    400000: Alfombra
+    400002: "Armario_habitaci\xF3n_danny"
+    400004: Cajon_inferior_comoda
+    400006: Cajon_superior_comoda
+    400008: Cama
+    400010: Caratula_ps4_1_cuarto_danny
+    400012: Cartel_chincheta
+    400014: Cartel_danny
+    400016: Cartucho_nes_1_cuarto_danny
+    400018: Comoda
+    400020: Corcho
+    400022: Corcho_chincheta_01
+    400024: Corcho_imagenes
+    400026: Empty_armario
+    400028: Empty_basura
+    400030: Empty_cama
+    400032: Empty_cartel
+    400034: Empty_comoda
+    400036: Empty_corcho
+    400038: Empty_estanteria_2
+    400040: Empty_libros
+    400042: Empty_mesa
+    400044: Empty_nes
+    400046: Empty_pc
+    400048: Empty_silla
+    400050: Empty_videojuegos_nes
+    400052: Empty_videojuegos_ps4
+    400054: Escritorio
+    400056: Estanteria_2_cuarto_danny
+    400058: //RootNode
+    400060: "Habitaci\xF3n_danny"
+    400062: Lampara
+    400064: NES_cuarto_danny
+    400066: Papelera
+    400068: Patas_silla
+    400070: PC_gaming_cuarto_danny
+    400072: "Pomo_armario_habitaci\xF3n_danny"
+    400074: Poster
+    400076: PS4_cuarto_danny
+    400078: "Puerta_habitaci\xF3n_danny"
+    400080: Sujeta_libros
+    400082: TV_cuarto_danny
+    2300000: Alfombra
+    2300002: "Armario_habitaci\xF3n_danny"
+    2300004: Cajon_inferior_comoda
+    2300006: Cajon_superior_comoda
+    2300008: Cama
+    2300010: Caratula_ps4_1_cuarto_danny
+    2300012: Cartel_chincheta
+    2300014: Cartel_danny
+    2300016: Cartucho_nes_1_cuarto_danny
+    2300018: Comoda
+    2300020: Corcho
+    2300022: Corcho_chincheta_01
+    2300024: Corcho_imagenes
+    2300026: Escritorio
+    2300028: Estanteria_2_cuarto_danny
+    2300030: "Habitaci\xF3n_danny"
+    2300032: Lampara
+    2300034: NES_cuarto_danny
+    2300036: Papelera
+    2300038: Patas_silla
+    2300040: PC_gaming_cuarto_danny
+    2300042: "Pomo_armario_habitaci\xF3n_danny"
+    2300044: Poster
+    2300046: PS4_cuarto_danny
+    2300048: "Puerta_habitaci\xF3n_danny"
+    2300050: Sujeta_libros
+    2300052: TV_cuarto_danny
+    3300000: Alfombra
+    3300002: "Armario_habitaci\xF3n_danny"
+    3300004: Cajon_inferior_comoda
+    3300006: Cajon_superior_comoda
+    3300008: Cama
+    3300010: Caratula_ps4_1_cuarto_danny
+    3300012: Cartel_chincheta
+    3300014: Cartel_danny
+    3300016: Cartucho_nes_1_cuarto_danny
+    3300018: Comoda
+    3300020: Corcho
+    3300022: Corcho_chincheta_01
+    3300024: Corcho_imagenes
+    3300026: Escritorio
+    3300028: Estanteria_2_cuarto_danny
+    3300030: "Habitaci\xF3n_danny"
+    3300032: Lampara
+    3300034: NES_cuarto_danny
+    3300036: Papelera
+    3300038: Patas_silla
+    3300040: PC_gaming_cuarto_danny
+    3300042: "Pomo_armario_habitaci\xF3n_danny"
+    3300044: Poster
+    3300046: PS4_cuarto_danny
+    3300048: "Puerta_habitaci\xF3n_danny"
+    3300050: Sujeta_libros
+    3300052: TV_cuarto_danny
+    4300000: Lampara
+    4300002: Cartucho_nes_1_cuarto_danny
+    4300004: Caratula_ps4_1_cuarto_danny
+    4300006: "Armario_habitaci\xF3n_danny"
+    4300008: "Pomo_armario_habitaci\xF3n_danny"
+    4300010: PC_gaming_cuarto_danny
+    4300012: NES_cuarto_danny
+    4300014: PS4_cuarto_danny
+    4300016: Estanteria_2_cuarto_danny
+    4300018: TV_cuarto_danny
+    4300020: "Puerta_habitaci\xF3n_danny"
+    4300022: Patas_silla
+    4300024: "Habitaci\xF3n_danny"
+    4300026: Escritorio
+    4300028: Cartel_danny
+    4300030: Cartel_chincheta
+    4300032: Papelera
+    4300034: Poster
+    4300036: Corcho_chincheta_01
+    4300038: Corcho_imagenes
+    4300040: Corcho
+    4300042: Alfombra
+    4300044: Sujeta_libros
+    4300046: Cajon_superior_comoda
+    4300048: Cajon_inferior_comoda
+    4300050: Comoda
+    4300052: Cama
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo
+    second: {fileID: 2100000, guid: cf8a8f59d86a76a40add0205aed381d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul
+    second: {fileID: 2100000, guid: 04f3a54d7c1f42d48854d2c3e2897180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a76568c9e6dcd5842a3af28c1118fecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo
+    second: {fileID: 2100000, guid: fafb314cae5073c46924fd8b600edf9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde
+    second: {fileID: 2100000, guid: 2972f80cec1c2664c90c16cb493d2a40, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

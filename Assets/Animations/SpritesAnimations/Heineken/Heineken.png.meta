@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: a04fae3b61960814894e06a7b616847a
+timeCreated: 1544509888
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Heineken_0
+    21300002: Heineken_1
+    21300004: Heineken_2
+    21300006: Heineken_3
+    21300008: Heineken_4
+    21300010: Heineken_5
+    21300012: Heineken_6
+    21300014: Heineken_7
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heineken_0
+      rect:
+        serializedVersion: 2
+        x: 824.0995
+        y: 603.98944
+        width: 583.81836
+        height: 1493.3633
+      alignment: 9
+      pivot: {x: 0.49741584, y: 0.5420722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heineken_1
+      rect:
+        serializedVersion: 2
+        x: 1047.9999
+        y: 2174.7666
+        width: 14
+        height: 13.999268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51669836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heineken_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2122.7722
+        width: 15
+        height: 14.999023
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5152191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heineken_3
+      rect:
+        serializedVersion: 2
+        x: 1726.8368
+        y: 1829.3759
+        width: 128.18945
+        height: 136.7539
+      alignment: 9
+      pivot: {x: 0.4888328, y: 0.5347134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heineken_4
+      rect:
+        serializedVersion: 2
+        x: 1619.276
+        y: 1544.8401
+        width: 49.396484
+        height: 30.554688
+      alignment: 9
+      pivot: {x: 0.49040174, y: 0.49615666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heineken_5
+      rect:
+        serializedVersion: 2
+        x: 1939.4828
+        y: 1556.725
+        width: 49.396484
+        height: 39.11914
+      alignment: 9
+      pivot: {x: 0.46596617, y: 0.4799416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heineken_6
+      rect:
+        serializedVersion: 2
+        x: 1651.8551
+        y: 897.087
+        width: 376.5586
+        height: 350.8653
+      alignment: 9
+      pivot: {x: 0.49831498, y: 0.49709365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heineken_7
+      rect:
+        serializedVersion: 2
+        x: 516.13763
+        y: 676.97327
+        width: 230.96289
+        height: 123.05078
+      alignment: 9
+      pivot: {x: 0.49948418, y: 0.50813764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 101220999800210
+  assetBundleName: 
+  assetBundleVariant: 

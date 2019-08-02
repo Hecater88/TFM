@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 01d72e01e01bdb946ba18289b5f2e813
+timeCreated: 1537294688
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arboles_02
+    100002: Casa_01_plaza
+    100004: Casa_02_plaza
+    100006: Casa_03_plaza
+    100008: Cesto_tienda
+    100010: Colegio
+    100012: Empty_estatua
+    100014: Empty_farola
+    100016: Empty_tienda
+    100018: Estatua
+    100020: Farolas
+    100022: Piedra_chica
+    100024: Piedra_grande
+    100026: Pino.005
+    100028: Pinos_02
+    100030: //RootNode
+    100032: Seto_hor
+    100034: Seto_vert
+    100036: Suelo_plaza
+    100038: Tapa_alcantarilla
+    100040: Tienda
+    100042: Tienda_toldo_soporte
+    100044: Vaya_hor_drch
+    100046: Vaya_hor_izq
+    100048: Vaya_vert
+    100050: Veleta_casa_01
+    400000: Arboles_02
+    400002: Casa_01_plaza
+    400004: Casa_02_plaza
+    400006: Casa_03_plaza
+    400008: Cesto_tienda
+    400010: Colegio
+    400012: Empty_estatua
+    400014: Empty_farola
+    400016: Empty_tienda
+    400018: Estatua
+    400020: Farolas
+    400022: Piedra_chica
+    400024: Piedra_grande
+    400026: Pino.005
+    400028: Pinos_02
+    400030: //RootNode
+    400032: Seto_hor
+    400034: Seto_vert
+    400036: Suelo_plaza
+    400038: Tapa_alcantarilla
+    400040: Tienda
+    400042: Tienda_toldo_soporte
+    400044: Vaya_hor_drch
+    400046: Vaya_hor_izq
+    400048: Vaya_vert
+    400050: Veleta_casa_01
+    2300000: Arboles_02
+    2300002: Casa_01_plaza
+    2300004: Casa_02_plaza
+    2300006: Casa_03_plaza
+    2300008: Cesto_tienda
+    2300010: Colegio
+    2300012: Estatua
+    2300014: Farolas
+    2300016: Piedra_chica
+    2300018: Piedra_grande
+    2300020: Pino.005
+    2300022: Pinos_02
+    2300024: Seto_hor
+    2300026: Seto_vert
+    2300028: Suelo_plaza
+    2300030: Tapa_alcantarilla
+    2300032: Tienda
+    2300034: Tienda_toldo_soporte
+    2300036: Vaya_hor_drch
+    2300038: Vaya_hor_izq
+    2300040: Vaya_vert
+    2300042: Veleta_casa_01
+    3300000: Arboles_02
+    3300002: Casa_01_plaza
+    3300004: Casa_02_plaza
+    3300006: Casa_03_plaza
+    3300008: Cesto_tienda
+    3300010: Colegio
+    3300012: Estatua
+    3300014: Farolas
+    3300016: Piedra_chica
+    3300018: Piedra_grande
+    3300020: Pino.005
+    3300022: Pinos_02
+    3300024: Seto_hor
+    3300026: Seto_vert
+    3300028: Suelo_plaza
+    3300030: Tapa_alcantarilla
+    3300032: Tienda
+    3300034: Tienda_toldo_soporte
+    3300036: Vaya_hor_drch
+    3300038: Vaya_hor_izq
+    3300040: Vaya_vert
+    3300042: Veleta_casa_01
+    4300000: Tapa_alcantarilla
+    4300002: Casa_02_plaza
+    4300004: Pinos_02
+    4300006: Pino.005
+    4300008: Casa_01_plaza
+    4300010: Veleta_casa_01
+    4300012: Estatua
+    4300014: Piedra_chica
+    4300016: Piedra_grande
+    4300018: Cesto_tienda
+    4300020: Tienda_toldo_soporte
+    4300022: Tienda
+    4300024: Vaya_vert
+    4300026: Vaya_hor_izq
+    4300028: Vaya_hor_drch
+    4300030: Casa_03_plaza
+    4300032: Suelo_plaza
+    4300034: Farolas
+    4300036: Seto_hor
+    4300038: Seto_vert
+    4300040: Arboles_02
+    4300042: Colegio
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.005
+    second: {fileID: 2100000, guid: b711d3c2fb3a54441a0cf52ec7a60322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c0a43316323665a47953461d1b5d7ae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roca.001
+    second: {fileID: 2100000, guid: d45bfc460440bb148a53df3d48c9311b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

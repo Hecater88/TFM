@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: d106ee10905fe2d4bbcef18b45d2288e
+timeCreated: 1544444669
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Solitaire_0
+    21300002: Solitaire_1
+    21300004: Solitaire_2
+    21300006: Solitaire_3
+    21300008: Solitaire_4
+    21300010: Solitaire_5
+    21300012: Solitaire_6
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Solitaire_0
+      rect:
+        serializedVersion: 2
+        x: 1605.2421
+        y: 1636.9648
+        width: 367.99426
+        height: 325.17188
+      alignment: 9
+      pivot: {x: 0.49799097, y: 0.49676818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Solitaire_1
+      rect:
+        serializedVersion: 2
+        x: 1052.5673
+        y: 1058.894
+        width: 366.28125
+        height: 554.6992
+      alignment: 9
+      pivot: {x: 0.49397182, y: 0.49956074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Solitaire_2
+      rect:
+        serializedVersion: 2
+        x: 1534.9679
+        y: 966.8311
+        width: 378.27148
+        height: 635.20514
+      alignment: 9
+      pivot: {x: 0.49972573, y: 0.503253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Solitaire_3
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1599
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Solitaire_4
+      rect:
+        serializedVersion: 2
+        x: 2094.5654
+        y: 973.9787
+        width: 278.92383
+        height: 631.77924
+      alignment: 9
+      pivot: {x: 0.49631676, y: 0.49704257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Solitaire_5
+      rect:
+        serializedVersion: 2
+        x: 1513.2354
+        y: 314.16113
+        width: 215.54688
+        height: 551.27344
+      alignment: 9
+      pivot: {x: 0.48372144, y: 0.49945968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Solitaire_6
+      rect:
+        serializedVersion: 2
+        x: 1709.114
+        y: 289.28394
+        width: 181.28906
+        height: 588.95703
+      alignment: 9
+      pivot: {x: 0.5123633, y: 0.4978566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 101216725237760
+  assetBundleName: 
+  assetBundleVariant: 

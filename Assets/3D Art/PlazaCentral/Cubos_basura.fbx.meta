@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 2823e40d53851ad408a630d26ee53f2c
+timeCreated: 1543960389
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cubo_basuro_1
+    100002: Cubo_basuro_2
+    100004: Cubo_basuro_3
+    100006: //RootNode
+    100008: Tapa_cubo_basuro_1
+    100010: Tapa_cubo_basuro_2
+    100012: Tapa_cubo_basuro_3
+    400000: Cubo_basuro_1
+    400002: Cubo_basuro_2
+    400004: Cubo_basuro_3
+    400006: //RootNode
+    400008: Tapa_cubo_basuro_1
+    400010: Tapa_cubo_basuro_2
+    400012: Tapa_cubo_basuro_3
+    2300000: Cubo_basuro_1
+    2300002: Cubo_basuro_2
+    2300004: Cubo_basuro_3
+    2300006: Tapa_cubo_basuro_1
+    2300008: Tapa_cubo_basuro_2
+    2300010: Tapa_cubo_basuro_3
+    3300000: Cubo_basuro_1
+    3300002: Cubo_basuro_2
+    3300004: Cubo_basuro_3
+    3300006: Tapa_cubo_basuro_1
+    3300008: Tapa_cubo_basuro_2
+    3300010: Tapa_cubo_basuro_3
+    4300000: Tapa_cubo_basuro_3
+    4300002: Tapa_cubo_basuro_2
+    4300004: Tapa_cubo_basuro_1
+    4300006: Cubo_basuro_3
+    4300008: Cubo_basuro_2
+    4300010: Cubo_basuro_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a344fac7cea72ac4eab28d891a484b6f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

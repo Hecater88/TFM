@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 08b84482a5b3b5b42bdf48a369cad907
+  - enabled: 1
+    path: Assets/Scenes/Persistent 1.unity
+    guid: b39da9b11b2e15340972f17a371f5307
+  - enabled: 1
+    path: Assets/Scenes/OutDoorDannyHouse 1.unity
+    guid: 5c83675aa864fa34487171628ffb18e3
+  - enabled: 1
+    path: Assets/Scenes/PlazaCentral3D.unity
+    guid: 626deaa461d2f7c43a792b882af5f5e1
+  - enabled: 1
+    path: Assets/Scenes/LeftTraperScene.unity
+    guid: 9335af153eab81f40959c136b3780ce2
+  - enabled: 1
+    path: Assets/Scenes/Puzzle7.unity
+    guid: 5bdcceed75f82ee4f8fae97501d0ffef
+  - enabled: 1
+    path: Assets/Scenes/Testeo2.unity
+    guid: a1e113adda4c70745a67ae6e292a059b
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: 9d115eb91b24d6b4687b23f74d7891b6
+  - enabled: 1
+    path: Assets/Scenes/NewScene.unity
+    guid: 09e4183b17c106a40bfc362645720497
+  - enabled: 1
+    path: Assets/Scenes/Snobtown.unity
+    guid: 5df7c6e798a35424fa42bd7a2ac9491c
+  - enabled: 1
+    path: Assets/Scenes/Puzzle6.unity
+    guid: 3628000c2f3ae2344b5938289c3ddc2b
+  - enabled: 1
+    path: Assets/Scenes/Puzzle1.unity
+    guid: 2d793ea7139c02c47a25fa8c379d24fe
+  - enabled: 1
+    path: Assets/Scenes/MarmolComics.unity
+    guid: 0b53dfcfb006d8340bb1a4f22d00a542
+  - enabled: 1
+    path: Assets/Scenes/Puzzle2.unity
+    guid: e1b2c104c39890b489576273c2dd5ea7
+  - enabled: 1
+    path: Assets/Scenes/Puzzle3.unity
+    guid: 356c72ce6ce631e48aac7c0a26b8f84f
+  - enabled: 1
+    path: Assets/Scenes/Puzzle4.unity
+    guid: 28d245eea5da5d1409484cbcdac8bbe8
+  - enabled: 1
+    path: Assets/Scenes/CaminoDerechaPlaza.unity
+    guid: 53d8ba56991a5214e8e855ce7b170ce1
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: cb3d8e9b0cc92c44c950421fbc864a34
+  - enabled: 1
+    path: Assets/Scenes/SecondScene.unity
+    guid: 28feef8be9931db49a5ed94431991a9a
+  - enabled: 1
+    path: Assets/Scenes/ThirdScene2.unity
+    guid: 2c3af87f1a491384aa55eef634c192b3
+  - enabled: 1
+    path: Assets/Scenes/DannysRoom2.unity
+    guid: 25c0bda64b8ed1348a41d4b8800bb229
+  - enabled: 1
+    path: Assets/Scenes/ThaiGaryen.unity
+    guid: 0270b494fe8001647a4e9a9a6f4d2185
+  - enabled: 1
+    path: Assets/Scenes/Tester.unity
+    guid: 6d2c03f49228f7d40be602753c5dda0f
+  - enabled: 1
+    path: Assets/Scenes/Puzzle5.unity
+    guid: 6d34e6d2b13509a44a04e71e1bba10eb
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 10f9b6067b8972e4e97e7ddb0d9d1713
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 27eaf3e3b3b5d99448394fdd8e9ef201
+  - enabled: 1
+    path: Assets/Scenes/EntryDannysHouse2.unity
+    guid: b7da6ecd5d557574b89be4ed9bb311c2
+  - enabled: 1
+    path: Assets/Scenes/MainMenu2.unity
+    guid: a3c7e1fda840e674f99f51b41bc29307
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: b4091a1e8f62a8c4d8049de28b5356cc
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 11aa03a6cb7666e489b1f6b461e2f610

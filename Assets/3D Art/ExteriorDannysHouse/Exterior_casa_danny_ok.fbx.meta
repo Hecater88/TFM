@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: cb83d08e21ae4d345809216a2da8d7c2
+timeCreated: 1537391036
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arboles
+    100002: Cableado_dch
+    100004: Cableado_izq
+    100006: Casa_01
+    100008: Casa_02
+    100010: Casa_03
+    100012: Casa_04
+    100014: Casa_danny
+    100016: //RootNode
+    100018: Muro_casa_01
+    100020: Muro_casa_02
+    100022: Muro_casa_03
+    100024: Muro_casa_04
+    100026: Muro_casa_dany
+    100028: Pinos
+    100030: Poste_electrico
+    100032: Reja_casa_01
+    100034: Reja_casa_02
+    100036: Reja_casa_03
+    100038: Reja_casa_04
+    100040: Reja_casa_danny
+    100042: Suelo
+    100044: Vayas
+    400000: Arboles
+    400002: Cableado_dch
+    400004: Cableado_izq
+    400006: Casa_01
+    400008: Casa_02
+    400010: Casa_03
+    400012: Casa_04
+    400014: Casa_danny
+    400016: //RootNode
+    400018: Muro_casa_01
+    400020: Muro_casa_02
+    400022: Muro_casa_03
+    400024: Muro_casa_04
+    400026: Muro_casa_dany
+    400028: Pinos
+    400030: Poste_electrico
+    400032: Reja_casa_01
+    400034: Reja_casa_02
+    400036: Reja_casa_03
+    400038: Reja_casa_04
+    400040: Reja_casa_danny
+    400042: Suelo
+    400044: Vayas
+    2300000: Arboles
+    2300002: Cableado_dch
+    2300004: Cableado_izq
+    2300006: Casa_01
+    2300008: Casa_02
+    2300010: Casa_03
+    2300012: Casa_04
+    2300014: Casa_danny
+    2300016: Muro_casa_01
+    2300018: Muro_casa_02
+    2300020: Muro_casa_03
+    2300022: Muro_casa_04
+    2300024: Muro_casa_dany
+    2300026: Pinos
+    2300028: Poste_electrico
+    2300030: Reja_casa_01
+    2300032: Reja_casa_02
+    2300034: Reja_casa_03
+    2300036: Reja_casa_04
+    2300038: Reja_casa_danny
+    2300040: Suelo
+    2300042: Vayas
+    3300000: Arboles
+    3300002: Cableado_dch
+    3300004: Cableado_izq
+    3300006: Casa_01
+    3300008: Casa_02
+    3300010: Casa_03
+    3300012: Casa_04
+    3300014: Casa_danny
+    3300016: Muro_casa_01
+    3300018: Muro_casa_02
+    3300020: Muro_casa_03
+    3300022: Muro_casa_04
+    3300024: Muro_casa_dany
+    3300026: Pinos
+    3300028: Poste_electrico
+    3300030: Reja_casa_01
+    3300032: Reja_casa_02
+    3300034: Reja_casa_03
+    3300036: Reja_casa_04
+    3300038: Reja_casa_danny
+    3300040: Suelo
+    3300042: Vayas
+    4300000: Casa_03
+    4300002: Arboles
+    4300004: Cableado_izq
+    4300006: Casa_04
+    4300008: Poste_electrico
+    4300010: Cableado_dch
+    4300012: Muro_casa_04
+    4300014: Reja_casa_04
+    4300016: Reja_casa_03
+    4300018: Muro_casa_03
+    4300020: Muro_casa_02
+    4300022: Reja_casa_02
+    4300024: Reja_casa_01
+    4300026: Muro_casa_01
+    4300028: Muro_casa_dany
+    4300030: Pinos
+    4300032: Vayas
+    4300034: Casa_danny
+    4300036: Reja_casa_danny
+    4300038: Casa_02
+    4300040: Suelo
+    4300042: Casa_01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa_01_2
+    second: {fileID: 2100000, guid: 09c781d14a533a946915f86aba7d17b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa_01_3
+    second: {fileID: 2100000, guid: ba65dd8195261244ba62e20d64f0d66a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.001
+    second: {fileID: 2100000, guid: 599bc2d8f1d222841bc39babf2b62bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a344fac7cea72ac4eab28d891a484b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pino
+    second: {fileID: 2100000, guid: e4fa197889fde6d4094183a2490d6a1b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

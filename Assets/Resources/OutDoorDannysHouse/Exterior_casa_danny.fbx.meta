@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 2b6379a680c821e41a84175ab0ea9768
+timeCreated: 1531697290
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arbol
+    100002: Arbol.001
+    100004: Arbol.002
+    100006: Arbol.003
+    100008: Arbol.004
+    100010: Arbol.005
+    100012: Arbol.006
+    100014: Arbol.007
+    100016: Cableado
+    100018: Cableado.001
+    100020: Casa_01
+    100022: Casa_01.001
+    100024: Casa_02_cruz.002
+    100026: Casa_danny.000
+    100028: Casa_danny.002
+    100030: //RootNode
+    100032: Muro
+    100034: Muro.001
+    100036: Muro.002
+    100038: Muro.003
+    100040: Muro.004
+    100042: Pino.000
+    100044: Pino.001
+    100046: Pino.002
+    100048: Pino.003
+    100050: Pino.004
+    100052: Pino.005
+    100054: Pino.006
+    100056: Pino.007
+    100058: Pino.008
+    100060: Poste_electrico
+    100062: Reja
+    100064: Reja.002
+    100066: Reja.003
+    100068: Reja.004
+    100070: Reja.005
+    100072: Suelo
+    100074: Vayas
+    400000: Arbol
+    400002: Arbol.001
+    400004: Arbol.002
+    400006: Arbol.003
+    400008: Arbol.004
+    400010: Arbol.005
+    400012: Arbol.006
+    400014: Arbol.007
+    400016: Cableado
+    400018: Cableado.001
+    400020: Casa_01
+    400022: Casa_01.001
+    400024: Casa_02_cruz.002
+    400026: Casa_danny.000
+    400028: Casa_danny.002
+    400030: //RootNode
+    400032: Muro
+    400034: Muro.001
+    400036: Muro.002
+    400038: Muro.003
+    400040: Muro.004
+    400042: Pino.000
+    400044: Pino.001
+    400046: Pino.002
+    400048: Pino.003
+    400050: Pino.004
+    400052: Pino.005
+    400054: Pino.006
+    400056: Pino.007
+    400058: Pino.008
+    400060: Poste_electrico
+    400062: Reja
+    400064: Reja.002
+    400066: Reja.003
+    400068: Reja.004
+    400070: Reja.005
+    400072: Suelo
+    400074: Vayas
+    2300000: Arbol
+    2300002: Arbol.001
+    2300004: Arbol.002
+    2300006: Arbol.003
+    2300008: Arbol.004
+    2300010: Arbol.005
+    2300012: Arbol.006
+    2300014: Arbol.007
+    2300016: Cableado
+    2300018: Cableado.001
+    2300020: Casa_01
+    2300022: Casa_01.001
+    2300024: Casa_02_cruz.002
+    2300026: Casa_danny.000
+    2300028: Casa_danny.002
+    2300030: Muro
+    2300032: Muro.001
+    2300034: Muro.002
+    2300036: Muro.003
+    2300038: Muro.004
+    2300040: Pino.000
+    2300042: Pino.001
+    2300044: Pino.002
+    2300046: Pino.003
+    2300048: Pino.004
+    2300050: Pino.005
+    2300052: Pino.006
+    2300054: Pino.007
+    2300056: Pino.008
+    2300058: Poste_electrico
+    2300060: Reja
+    2300062: Reja.002
+    2300064: Reja.003
+    2300066: Reja.004
+    2300068: Reja.005
+    2300070: Suelo
+    2300072: Vayas
+    3300000: Arbol
+    3300002: Arbol.001
+    3300004: Arbol.002
+    3300006: Arbol.003
+    3300008: Arbol.004
+    3300010: Arbol.005
+    3300012: Arbol.006
+    3300014: Arbol.007
+    3300016: Cableado
+    3300018: Cableado.001
+    3300020: Casa_01
+    3300022: Casa_01.001
+    3300024: Casa_02_cruz.002
+    3300026: Casa_danny.000
+    3300028: Casa_danny.002
+    3300030: Muro
+    3300032: Muro.001
+    3300034: Muro.002
+    3300036: Muro.003
+    3300038: Muro.004
+    3300040: Pino.000
+    3300042: Pino.001
+    3300044: Pino.002
+    3300046: Pino.003
+    3300048: Pino.004
+    3300050: Pino.005
+    3300052: Pino.006
+    3300054: Pino.007
+    3300056: Pino.008
+    3300058: Poste_electrico
+    3300060: Reja
+    3300062: Reja.002
+    3300064: Reja.003
+    3300066: Reja.004
+    3300068: Reja.005
+    3300070: Suelo
+    3300072: Vayas
+    4300000: Cableado.001
+    4300002: Casa_danny.000
+    4300004: Poste_electrico
+    4300006: Cableado
+    4300008: Muro.004
+    4300010: Reja.005
+    4300012: Reja.004
+    4300014: Muro.003
+    4300016: Muro.002
+    4300018: Reja.003
+    4300020: Reja.002
+    4300022: Muro.001
+    4300024: Muro
+    4300026: Arbol.007
+    4300028: Arbol.002
+    4300030: Pino.002
+    4300032: Vayas
+    4300034: Casa_danny.002
+    4300036: Reja
+    4300038: Casa_01.001
+    4300040: Suelo
+    4300042: Casa_01
+    4300044: Casa_02_cruz.002
+    4300046: Arbol.006
+    4300048: Arbol.005
+    4300050: Arbol.004
+    4300052: Pino.008
+    4300054: Pino.007
+    4300056: Pino.006
+    4300058: Pino.005
+    4300060: Pino.004
+    4300062: Pino.003
+    4300064: Pino.001
+    4300066: Pino.000
+    4300068: Arbol.003
+    4300070: Arbol.001
+    4300072: Arbol
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 3a118acf6ecd09446a791571664420e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a76568c9e6dcd5842a3af28c1118fecc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
